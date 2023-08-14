@@ -1,0 +1,60 @@
+.frame-child27 {
+  position: relative;
+  border-radius: 50%;
+  background-color: #f9fbfd;
+  box-shadow: 0 7px 45px rgba(65, 183, 155, 0.3);
+  width: 8.63rem;
+  height: 8.63rem;
+  z-index: 0;
+}
+.partnering-with-ping1 {
+  position: relative;
+  font-weight: 600;
+}
+.swift-strategically-collaborat {
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  color: #494f5f;
+  text-align: center;
+  display: inline-block;
+  width: 42rem;
+  height: 7rem;
+  flex-shrink: 0;
+}
+.partnering-with-ping-bill-pay-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.88rem;
+  z-index: 1;
+}
+.partners-icon1 {
+  position: absolute;
+  margin: 0 !important;
+  height: 23.21%;
+  width: 17.19%;
+  top: 8.93%;
+  right: 41.44%;
+  bottom: 67.86%;
+  left: 41.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.ellipse-parent12 {
+  width: 42rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  gap: 2.63rem;
+  text-align: left;
+  font-size: 1.5rem;
+  color: #41b79b;
+  font-family: Sora;
+}

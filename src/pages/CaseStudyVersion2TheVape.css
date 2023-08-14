@@ -1,0 +1,170 @@
+.case-study,
+.the-vape-stores {
+  position: relative;
+  line-height: 1.75rem;
+}
+.the-vape-stores {
+  font-size: 3.75rem;
+  line-height: 4.5rem;
+  font-weight: 600;
+  color: #2e3646;
+}
+.leveraging-mobile-top-ups {
+  position: relative;
+  font-size: 2rem;
+  line-height: 3.13rem;
+  color: #828282;
+  display: inline-block;
+  width: 70.63rem;
+}
+.case-study-parent,
+.frame-wrapper5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.case-study-parent {
+  align-items: center;
+  gap: 1.75rem;
+}
+.frame-wrapper5 {
+  padding: 0.63rem;
+  align-items: flex-start;
+}
+.introduction,
+.this-case-study {
+  position: relative;
+  line-height: 1.75rem;
+}
+.introduction {
+  align-self: stretch;
+  font-weight: 600;
+}
+.this-case-study {
+  font-size: 1.25rem;
+  color: #494f5f;
+  display: inline-block;
+  width: 82.5rem;
+}
+.introduction-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+.by-embracing-these {
+  flex: 1;
+  position: relative;
+  line-height: 1.75rem;
+  display: inline-block;
+  height: 3.63rem;
+}
+.by-embracing-these-innovative-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  color: #494f5f;
+}
+.frame-parent15 {
+  width: 82.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.13rem;
+}
+.plant-icon {
+  position: relative;
+  width: 42.33rem;
+  height: 25.49rem;
+}
+.frame-parent14 {
+  text-align: left;
+  font-size: 3rem;
+}
+.frame-parent13,
+.frame-parent14 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 3.75rem;
+}
+.the-vape-store {
+  align-self: stretch;
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  color: #494f5f;
+}
+.background-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+.accepting-mobile-top-ups {
+  flex: 1;
+  position: relative;
+  line-height: 1.75rem;
+}
+.frame-parent11,
+.frame-parent12,
+.frame-parent16 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent16 {
+  width: 82.5rem;
+  gap: 1.13rem;
+  text-align: left;
+  font-size: 3rem;
+}
+.frame-parent11,
+.frame-parent12 {
+  gap: 3.75rem;
+}
+.frame-parent11 {
+  position: absolute;
+  top: 5rem;
+  left: 18.75rem;
+}
+.case-study-version-2-the-vape-inner {
+  position: absolute;
+  top: 5rem;
+  left: calc(50% - 960px);
+  background: linear-gradient(180deg, #ebfffe 0.01%, rgba(249, 251, 253, 0));
+  width: 120rem;
+  height: 222.88rem;
+  overflow: hidden;
+}
+.case-study-version-2-the-vape-child,
+.case-study-version-2-the-vape-item {
+  position: absolute;
+  top: 7.69rem;
+  left: 19.63rem;
+  width: 18.06rem;
+  height: 8.25rem;
+}
+.case-study-version-2-the-vape-item {
+  left: 85.56rem;
+}
+.case-study-version-2-the-vape {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 257.63rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 2.25rem;
+  color: #41b79b;
+  font-family: Sora;
+}

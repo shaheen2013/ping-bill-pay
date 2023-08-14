@@ -1,0 +1,109 @@
+.terms-and-conditions {
+  position: relative;
+  line-height: 2.5rem;
+}
+.terms-and-conditions-wrapper {
+  position: absolute;
+  top: 5rem;
+  left: calc(50% - 200px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heading14 {
+  align-self: stretch;
+  position: relative;
+  line-height: 2.5rem;
+  font-weight: 600;
+}
+.content-item10 {
+  width: 45rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.this-website-is {
+  margin: 0;
+}
+.paragraph13 {
+  align-self: stretch;
+  position: relative;
+  line-height: 1.5rem;
+}
+.content-item-parent2,
+.content-item11 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content-item11 {
+  align-self: stretch;
+  font-size: 1rem;
+  color: #585e6b;
+}
+.content-item-parent2 {
+  width: 82.5rem;
+  gap: 1.5rem;
+}
+.content-item13 {
+  align-self: stretch;
+  font-size: 1rem;
+}
+.content-item13,
+.content-item16,
+.frame-parent1,
+.frame-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content-item16 {
+  align-self: stretch;
+}
+.frame-parent1,
+.frame-parent2 {
+  gap: 3rem;
+}
+.frame-parent1 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  align-items: center;
+  gap: 7rem;
+  text-align: left;
+  font-size: 2rem;
+  color: #2e3646;
+}
+.frame-group {
+  position: absolute;
+  top: 5rem;
+  left: 0;
+  background: linear-gradient(180deg, #ebfffe, rgba(249, 251, 253, 0));
+  width: 120rem;
+  height: 442.75rem;
+}
+.trems-condition-child,
+.trems-condition-item {
+  position: absolute;
+  top: 7.69rem;
+  left: 19.63rem;
+  width: 18.06rem;
+  height: 8.25rem;
+}
+.trems-condition-item {
+  left: 85.56rem;
+}
+.trems-condition {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 447.75rem;
+  text-align: center;
+  font-size: 2.25rem;
+  color: #41b79b;
+  font-family: Sora;
+}

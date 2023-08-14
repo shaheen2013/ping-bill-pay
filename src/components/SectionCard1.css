@@ -1,0 +1,65 @@
+.grow-with-ping {
+  position: relative;
+  line-height: 4.5rem;
+  font-weight: 600;
+}
+.re-imagining-the-prepay {
+  align-self: stretch;
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+.grow-with-ping-parent {
+  width: 33.44rem;
+  height: 9.06rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.75rem;
+}
+.ux-logo-1 {
+  position: relative;
+  width: 8.53rem;
+  height: 5.5rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.acima-leasing-rgb-icon,
+.spectrum-logo-icon {
+  position: relative;
+  width: 12.55rem;
+  height: 5.5rem;
+  object-fit: cover;
+}
+.acima-leasing-rgb-icon {
+  width: 8.45rem;
+}
+.frame-parent55,
+.ux-logo-1-parent {
+  width: 36rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.frame-parent55 {
+  position: absolute;
+  top: calc(50% - 72px);
+  left: 18.75rem;
+  width: 82.5rem;
+  align-items: center;
+}
+.landing-page-product-feature-inner {
+  position: absolute;
+  top: 403.19rem;
+  left: calc(50% - 960px);
+  background-color: #fff;
+  width: 120rem;
+  height: 18.75rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 3rem;
+  color: #2e3646;
+  font-family: Sora;
+}

@@ -1,0 +1,373 @@
+.vector-icon2 {
+  position: absolute;
+  width: 27.08%;
+  top: calc(50% - 41px);
+  right: 68.75%;
+  left: 4.17%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 38.94rem;
+  opacity: 0.1;
+}
+.let-us-contact {
+  position: relative;
+  line-height: 4.5rem;
+  font-weight: 600;
+}
+.fill-out-our {
+  position: relative;
+  font-size: 1.25rem;
+  display: inline-block;
+  width: 41.88rem;
+  height: 2.56rem;
+  flex-shrink: 0;
+}
+.let-us-contact-you-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.56rem;
+}
+.background-x5f-01-4-icon,
+.letter-icon {
+  position: absolute;
+  height: 83.99%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 16.01%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.letter-icon {
+  height: 26.81%;
+  width: 40.84%;
+  top: 67.7%;
+  right: 3.62%;
+  bottom: 5.48%;
+  left: 55.54%;
+}
+.camera-10-icon,
+.details-13-icon,
+.dynamic-10-icon,
+.group-icon1,
+.phone-icon {
+  position: absolute;
+  height: 31.16%;
+  width: 41.36%;
+  top: 63.33%;
+  right: 55.76%;
+  bottom: 5.51%;
+  left: 2.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.camera-10-icon,
+.details-13-icon,
+.dynamic-10-icon,
+.group-icon1 {
+  height: 98.1%;
+  width: 96.04%;
+  top: 0.98%;
+  right: 1.98%;
+  bottom: 0.91%;
+  left: 1.98%;
+}
+.camera-10-icon,
+.dynamic-10-icon,
+.group-icon1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.camera-10-icon,
+.dynamic-10-icon {
+  height: 1.62%;
+  width: 3.14%;
+  top: 3.37%;
+  right: 37.73%;
+  bottom: 95.01%;
+  left: 59.13%;
+}
+.dynamic-10-icon {
+  height: 0.84%;
+  width: 12.24%;
+  top: 3.76%;
+  right: 43.95%;
+  bottom: 95.4%;
+  left: 43.81%;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 6.96%;
+  top: 28.32%;
+  bottom: 64.72%;
+}
+.vector-icon3,
+.vector-icon4,
+.vector-icon5 {
+  width: 64.73%;
+  right: 17.63%;
+  left: 17.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon4 {
+  position: absolute;
+  height: 6.96%;
+  top: 38.55%;
+  bottom: 54.5%;
+}
+.vector-icon5 {
+  height: 32.57%;
+  top: 48.74%;
+  bottom: 18.69%;
+}
+.group1,
+.name,
+.vector-icon5 {
+  position: absolute;
+}
+.group1 {
+  height: 3.87%;
+  width: 39.64%;
+  top: 22.79%;
+  right: 29.4%;
+  bottom: 73.35%;
+  left: 30.96%;
+  font-size: 0.55rem;
+}
+.name {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.group2,
+.group3,
+.group4,
+.smartphone-1- {
+  position: absolute;
+  height: 2.81%;
+  width: 13.67%;
+  top: 30.74%;
+  right: 62.21%;
+  bottom: 66.45%;
+  left: 24.12%;
+}
+.group3,
+.group4,
+.smartphone-1- {
+  width: 15.72%;
+  top: 41.06%;
+  right: 60.16%;
+  bottom: 56.12%;
+}
+.group4,
+.smartphone-1- {
+  width: 21.87%;
+  top: 51.52%;
+  right: 54.01%;
+  bottom: 45.67%;
+}
+.smartphone-1- {
+  height: 73.24%;
+  width: 35.73%;
+  top: 24.65%;
+  right: 28.58%;
+  bottom: 2.11%;
+  left: 35.69%;
+}
+.flowerpot-3-icon,
+.man-6-icon {
+  position: absolute;
+  height: 31.99%;
+  width: 21.81%;
+  top: 68.01%;
+  right: 55.85%;
+  bottom: 0;
+  left: 22.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.man-6-icon {
+  height: 43.67%;
+  width: 16.29%;
+  top: 41.53%;
+  right: 10.04%;
+  bottom: 14.79%;
+  left: 73.67%;
+}
+.background-x5f-01-4-parent {
+  position: relative;
+  width: 32.03rem;
+  height: 30.22rem;
+  font-size: 0.41rem;
+  color: #4a6b96;
+  font-family: Inter;
+}
+.frame-parent34 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8.25rem;
+}
+.frame-child8 {
+  position: relative;
+  border-radius: 12px;
+  background-color: #fff;
+  width: 64.5rem;
+  height: 36.25rem;
+  z-index: 0;
+}
+.fill-the-form {
+  margin: 0;
+}
+.our-experts {
+  margin: 0;
+  color: #41b79b;
+}
+.fill-the-form-container {
+  position: relative;
+  font-weight: 600;
+}
+.name-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  box-sizing: border-box;
+  width: 27.43rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 0.63rem 0.5rem 0.63rem 1rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.email {
+  position: relative;
+  line-height: 1.75rem;
+}
+.email-wrapper {
+  top: 4.19rem;
+  left: 0;
+  width: 56.04rem;
+  padding: 0.69rem 0.5rem 0.69rem 1rem;
+}
+.email-wrapper,
+.message-wrapper,
+.phone-wrapper {
+  position: absolute;
+  border-radius: 8px;
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.message-wrapper {
+  top: 8.38rem;
+  left: 0;
+  width: 56.04rem;
+  height: 7.88rem;
+  padding: 0.69rem 0.5rem 0.69rem 1rem;
+}
+.phone-wrapper {
+  top: 0;
+  left: 29.68rem;
+  width: 26.36rem;
+  padding: 0.63rem 0.5rem 0.63rem 1rem;
+}
+.frame-parent36 {
+  position: relative;
+  width: 56.04rem;
+  height: 16.25rem;
+  text-align: left;
+  font-size: 0.88rem;
+  color: #828282;
+}
+.fill-the-form-for-a-free-consu-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 3rem;
+}
+.frame-parent35,
+.rectangle-parent {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent35 {
+  margin: 0 !important;
+  top: 3.63rem;
+  left: 0;
+  width: 64.5rem;
+  padding: 0 3.13rem;
+  box-sizing: border-box;
+  align-items: center;
+  gap: 3rem;
+  z-index: 1;
+}
+.rectangle-parent {
+  top: calc(50% - 290px);
+  left: calc(50% - 516px);
+  align-items: flex-start;
+  gap: 0.63rem;
+}
+.group-div {
+  position: relative;
+  width: 64.5rem;
+  height: 36.25rem;
+  text-align: center;
+  font-size: 1.5rem;
+}
+.frame-parent33 {
+  position: absolute;
+  top: 5rem;
+  left: calc(50% - 657px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 6.25rem;
+}
+.vector-parent {
+  position: absolute;
+  top: calc(50% - 870px);
+  left: calc(50% - 960px);
+  background: linear-gradient(180deg, #effeff 69.58%, rgba(197, 216, 217, 0.5));
+  width: 120rem;
+  height: 84rem;
+  overflow: hidden;
+}
+.contact-us-page {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 118.75rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 3.75rem;
+  color: #2e3646;
+  font-family: Sora;
+}

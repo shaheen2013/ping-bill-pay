@@ -1,0 +1,667 @@
+.group-icon {
+  position: absolute;
+  top: 0.19rem;
+  left: 19.63rem;
+  width: 80.75rem;
+  height: 9.81rem;
+}
+.about-ping-bill {
+  position: absolute;
+  top: 4.63rem;
+  left: 41.88rem;
+  font-weight: 600;
+}
+.we-are {
+  color: #2e3646;
+}
+.who-we-are-container {
+  position: relative;
+  font-weight: 600;
+}
+.at-your-core {
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  color: #2e3646;
+  text-align: center;
+  display: inline-block;
+  width: 59rem;
+}
+.who-we-are-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1rem;
+}
+.mission {
+  color: #41b79b;
+}
+.our-mission {
+  position: relative;
+  line-height: 4.13rem;
+  font-weight: 600;
+}
+.our-mission-is {
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  color: #494f5f;
+  text-align: justify;
+  display: inline-block;
+  width: 40.63rem;
+}
+.our-mission-parent {
+  width: 39.94rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.88rem;
+}
+.when-it-comes {
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  color: #494f5f;
+  text-align: justify;
+  display: inline-block;
+  width: 40.38rem;
+}
+.frame-parent26,
+.our-platform-supports-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.our-platform-supports-parent {
+  width: 40.44rem;
+  height: 13.75rem;
+  gap: 0.88rem;
+}
+.frame-parent26 {
+  gap: 3rem;
+}
+.activating-new-devices {
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  color: #494f5f;
+  text-align: justify;
+  display: inline-block;
+  width: 40.19rem;
+}
+.mission-support {
+  width: 40.5rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3rem;
+}
+.illustration-icon {
+  position: relative;
+  width: 38.73rem;
+  height: 37.77rem;
+}
+.mission-support-parent {
+  width: 82.5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.xmlid-1-icon,
+.xmlid-1236-icon,
+.xmlid-419-icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.xmlid-1236-icon {
+  height: 5.25%;
+  width: 92.64%;
+  top: 83.89%;
+  right: 0;
+  bottom: 10.86%;
+  left: 7.36%;
+  opacity: 0.65;
+}
+.xmlid-1-icon,
+.xmlid-419-icon {
+  height: 65.42%;
+  width: 76.65%;
+  top: 21.71%;
+  right: 9.65%;
+  bottom: 12.88%;
+  left: 13.7%;
+}
+.xmlid-1-icon {
+  height: 24.65%;
+  width: 20.76%;
+  top: 0;
+  right: 61.34%;
+  bottom: 75.35%;
+  left: 17.9%;
+}
+.xmlid-1025-icon,
+.xmlid-1035-icon,
+.xmlid-657-icon,
+.xmlid-951-icon {
+  position: absolute;
+  height: 26.56%;
+  width: 16.02%;
+  top: 41.3%;
+  right: 39.61%;
+  bottom: 32.14%;
+  left: 44.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.xmlid-1025-icon,
+.xmlid-657-icon,
+.xmlid-951-icon {
+  height: 35.04%;
+  width: 25.21%;
+  top: 2.06%;
+  right: 33.99%;
+  bottom: 62.9%;
+  left: 40.8%;
+}
+.xmlid-1025-icon,
+.xmlid-951-icon {
+  height: 4.18%;
+  width: 8.96%;
+  top: 46.99%;
+  right: 70.24%;
+  bottom: 48.82%;
+  left: 20.8%;
+}
+.xmlid-951-icon {
+  height: 31.81%;
+  width: 31.69%;
+  top: 59.4%;
+  right: 61.71%;
+  bottom: 8.79%;
+  left: 6.6%;
+}
+.xmlid-1024-icon,
+.xmlid-658-icon,
+.xmlid-680-icon,
+.xmlid-685-icon {
+  position: absolute;
+  height: 22%;
+  width: 19.89%;
+  top: 78%;
+  right: 80.11%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.xmlid-658-icon,
+.xmlid-680-icon,
+.xmlid-685-icon {
+  height: 6.71%;
+  width: 18.76%;
+  top: 54.84%;
+  right: 16%;
+  bottom: 38.45%;
+  left: 65.24%;
+}
+.xmlid-658-icon,
+.xmlid-680-icon {
+  top: 63.47%;
+  bottom: 29.83%;
+}
+.xmlid-658-icon {
+  height: 13.56%;
+  width: 30.65%;
+  top: 30.33%;
+  right: 62.54%;
+  bottom: 56.12%;
+  left: 6.81%;
+}
+.xmlid-1187-icon,
+.xmlid-659-icon,
+.xmlid-696-icon,
+.xmlid-752-icon,
+.xmlid-814-icon {
+  position: absolute;
+  height: 7.68%;
+  width: 9.27%;
+  top: 42.75%;
+  right: 28.31%;
+  bottom: 49.57%;
+  left: 62.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.xmlid-659-icon,
+.xmlid-696-icon,
+.xmlid-752-icon,
+.xmlid-814-icon {
+  height: 8.99%;
+  width: 29.49%;
+  top: 72.92%;
+  right: 27.77%;
+  bottom: 18.09%;
+  left: 42.74%;
+}
+.xmlid-696-icon,
+.xmlid-752-icon,
+.xmlid-814-icon {
+  height: 100%;
+  width: 98.52%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 1.48%;
+}
+.xmlid-696-icon,
+.xmlid-814-icon {
+  height: 95.73%;
+  top: 4.27%;
+  right: 1.48%;
+  left: 0;
+}
+.xmlid-814-icon {
+  height: 17.57%;
+  top: 4.3%;
+  bottom: 78.13%;
+  left: 0.01%;
+}
+.xmlid-795-,
+.xmlid-845- {
+  position: absolute;
+  height: 32.38%;
+  width: 31.07%;
+  top: 59.2%;
+  left: 44.35%;
+  display: inline-block;
+}
+.xmlid-845- {
+  width: 22.44%;
+  top: 37.47%;
+}
+.xmlid-830-icon {
+  position: absolute;
+  height: 57.43%;
+  width: 88.35%;
+  top: 29.43%;
+  right: 6%;
+  bottom: 13.15%;
+  left: 5.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.login,
+.password {
+  position: absolute;
+  height: 47.77%;
+  width: 56%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.password {
+  width: 100%;
+  top: 52.23%;
+}
+.xmlid-844- {
+  position: absolute;
+  height: 40.67%;
+  width: 21.58%;
+  top: 39%;
+  right: 64.29%;
+  bottom: 20.33%;
+  left: 14.14%;
+  font-size: 0.42rem;
+}
+.xmlid-846- {
+  position: absolute;
+  height: 17.98%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 82.02%;
+  left: 0;
+}
+.xmlid-387-icon,
+.xmlid-409-icon,
+.xmlid-414-icon {
+  position: absolute;
+  height: 18.25%;
+  width: 12.83%;
+  top: 16.92%;
+  right: 21.23%;
+  bottom: 64.83%;
+  left: 65.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.xmlid-387-icon,
+.xmlid-409-icon {
+  top: 16.95%;
+  right: 71.73%;
+  bottom: 64.8%;
+  left: 15.43%;
+}
+.xmlid-387-icon {
+  height: 43.96%;
+  width: 36.26%;
+  top: 53.34%;
+  right: 34.09%;
+  bottom: 2.7%;
+  left: 29.65%;
+}
+.xmlid-1197-icon,
+.xmlid-1198-icon,
+.xmlid-319-icon,
+.xmlid-367-icon,
+.xmlid-386-icon {
+  position: absolute;
+  height: 2.7%;
+  width: 12.28%;
+  top: 97.3%;
+  right: 29.91%;
+  bottom: 0;
+  left: 57.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.xmlid-1197-icon,
+.xmlid-1198-icon,
+.xmlid-319-icon,
+.xmlid-386-icon {
+  top: 97.16%;
+  right: 62.69%;
+  bottom: 0.14%;
+  left: 25.03%;
+}
+.xmlid-1197-icon,
+.xmlid-1198-icon,
+.xmlid-319-icon {
+  height: 22.51%;
+  width: 50.49%;
+  top: 31.2%;
+  right: 27.65%;
+  bottom: 46.28%;
+  left: 21.85%;
+}
+.xmlid-1197-icon,
+.xmlid-1198-icon {
+  height: 5.3%;
+  width: 19.1%;
+  top: 29.12%;
+  right: 43.56%;
+  bottom: 65.58%;
+  left: 37.34%;
+}
+.xmlid-1197-icon {
+  height: 10.32%;
+  width: 15.55%;
+  top: 20.02%;
+  right: 45.6%;
+  bottom: 69.66%;
+  left: 38.85%;
+}
+.xmlid-1193-icon,
+.xmlid-1194-icon,
+.xmlid-1195-icon,
+.xmlid-1196-icon {
+  position: absolute;
+  height: 1.33%;
+  width: 1.47%;
+  top: 24.75%;
+  right: 60.86%;
+  bottom: 73.93%;
+  left: 37.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.xmlid-1193-icon,
+.xmlid-1194-icon,
+.xmlid-1195-icon {
+  width: 1.5%;
+  top: 24.46%;
+  right: 44.44%;
+  bottom: 74.21%;
+  left: 54.06%;
+}
+.xmlid-1193-icon,
+.xmlid-1194-icon {
+  height: 5.83%;
+  width: 18.73%;
+  top: 19.11%;
+  right: 43.27%;
+  bottom: 75.06%;
+  left: 38.01%;
+}
+.xmlid-1193-icon {
+  height: 1.25%;
+  width: 8.19%;
+  top: 29.69%;
+  right: 49.27%;
+  bottom: 69.06%;
+  left: 42.54%;
+}
+.xmlid-1166-icon,
+.xmlid-1169-icon,
+.xmlid-1171-icon,
+.xmlid-1186-icon {
+  position: absolute;
+  height: 0.65%;
+  width: 1.45%;
+  top: 25.03%;
+  right: 56.51%;
+  bottom: 74.32%;
+  left: 42.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.xmlid-1166-icon,
+.xmlid-1169-icon,
+.xmlid-1171-icon {
+  top: 25.04%;
+  right: 49.01%;
+  bottom: 74.31%;
+  left: 49.54%;
+}
+.xmlid-1166-icon,
+.xmlid-1169-icon {
+  height: 0.96%;
+  width: 4.53%;
+  top: 23.96%;
+  right: 47.47%;
+  bottom: 75.07%;
+  left: 48%;
+}
+.xmlid-1166-icon {
+  height: 0.64%;
+  width: 2.52%;
+  top: 27.28%;
+  right: 52.79%;
+  bottom: 72.08%;
+  left: 44.68%;
+}
+.xmlid-1162-icon,
+.xmlid-1165-icon,
+.xmlid-664-icon,
+.xmlid-872-icon {
+  position: absolute;
+  height: 2.38%;
+  width: 1.9%;
+  top: 22.3%;
+  right: 44.74%;
+  bottom: 75.32%;
+  left: 53.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.xmlid-1162-icon,
+.xmlid-664-icon,
+.xmlid-872-icon {
+  height: 1.75%;
+  width: 1.26%;
+  top: 25.21%;
+  right: 52.77%;
+  bottom: 73.04%;
+  left: 45.97%;
+}
+.xmlid-664-icon,
+.xmlid-872-icon {
+  height: 0.96%;
+  width: 4.53%;
+  top: 23.97%;
+  right: 54.54%;
+  bottom: 75.06%;
+  left: 40.93%;
+}
+.xmlid-872-icon {
+  height: 2.86%;
+  width: 5.6%;
+  top: 38.57%;
+  right: 42.8%;
+  bottom: 58.57%;
+  left: 51.61%;
+}
+.xmlid-1030-icon,
+.xmlid-632- {
+  position: absolute;
+  height: 69.47%;
+  width: 28.25%;
+  top: 27.75%;
+  right: 2.14%;
+  bottom: 2.78%;
+  left: 69.61%;
+}
+.xmlid-1030-icon {
+  height: 13.31%;
+  width: 12.04%;
+  top: 39.46%;
+  right: 57.78%;
+  bottom: 47.23%;
+  left: 30.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.objects {
+  position: relative;
+  width: 37.37rem;
+  height: 32.5rem;
+}
+.our-security-parent {
+  width: 40.44rem;
+  gap: 0.88rem;
+}
+.frame-parent27,
+.our-security-parent,
+.our-support-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.our-support-parent {
+  width: 40.44rem;
+  height: 13.31rem;
+  gap: 0.88rem;
+}
+.frame-parent27 {
+  width: 40.5rem;
+  gap: 3rem;
+  font-size: 2.5rem;
+  color: #2e3646;
+  font-family: Sora;
+}
+.objects-parent {
+  width: 82.5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.74rem;
+  color: #41b79b;
+  font-family: Antonio;
+}
+.frame-parent25 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 6.25rem;
+}
+.join-us-on {
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  text-align: center;
+  display: inline-block;
+  width: 65.88rem;
+}
+.lets-build-your-business-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1.25rem;
+}
+.contact-us-section {
+  gap: 3.38rem;
+  font-size: 3rem;
+}
+.contact-us-section,
+.frame-parent23,
+.frame-parent24 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-parent24 {
+  gap: 6.25rem;
+  font-size: 2.5rem;
+  color: #2e3646;
+}
+.frame-parent23 {
+  position: absolute;
+  top: 13.13rem;
+  left: 18.75rem;
+  width: 82.5rem;
+  gap: 3.75rem;
+  font-size: 3rem;
+}
+.group-parent {
+  position: absolute;
+  top: 5rem;
+  left: calc(50% - 960px);
+  background: linear-gradient(180deg, #ebfffe 0.01%, rgba(249, 251, 253, 0));
+  width: 120rem;
+  height: 139.13rem;
+}
+.about-us-page {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 179.88rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 3.75rem;
+  color: #41b79b;
+  font-family: Sora;
+}

@@ -1,0 +1,55 @@
+.frame-child22 {
+  position: relative;
+  border-radius: 50%;
+  background-color: #f9fbfd;
+  box-shadow: 0 7px 45px rgba(65, 183, 155, 0.3);
+  width: 8.63rem;
+  height: 8.63rem;
+  z-index: 0;
+}
+.streamlined-activation-process {
+  position: relative;
+  font-weight: 600;
+}
+.the-vape-store1 {
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  color: #494f5f;
+  text-align: center;
+  display: inline-block;
+  width: 36.69rem;
+  height: 9.81rem;
+  flex-shrink: 0;
+}
+.streamlined-activation-process-parent {
+  width: 36.69rem;
+  height: 12.56rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.88rem;
+  z-index: 1;
+}
+.vector-icon26 {
+  position: absolute;
+  margin: 0 !important;
+  top: 1.88rem;
+  left: 15.94rem;
+  width: 4.88rem;
+  height: 4.88rem;
+  z-index: 2;
+}
+.ellipse-parent8 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  gap: 2.63rem;
+  text-align: left;
+  font-size: 1.5rem;
+  color: #41b79b;
+  font-family: Sora;
+}

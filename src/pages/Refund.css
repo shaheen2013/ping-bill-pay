@@ -1,0 +1,97 @@
+.heading13,
+.refund1 {
+  position: relative;
+  line-height: 2.5rem;
+}
+.heading13 {
+  align-self: stretch;
+  font-weight: 600;
+}
+.content-item8 {
+  width: 45rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.customer-satisfaction-is {
+  margin: 0;
+}
+.infopingbillpaycom1 {
+  color: #41b79b;
+}
+.infopingbillpaycom {
+  text-decoration: underline;
+}
+.blank-line19 {
+  color: inherit;
+}
+.paragraph12 {
+  align-self: stretch;
+  position: relative;
+  line-height: 1.5rem;
+}
+.content-item-parent1,
+.content-item9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.content-item9 {
+  align-self: stretch;
+  align-items: flex-start;
+  font-size: 1rem;
+  color: #585e6b;
+}
+.content-item-parent1 {
+  width: 82.5rem;
+  gap: 1.5rem;
+}
+.content-item-parent1,
+.frame-wrapper1 {
+  align-items: flex-start;
+}
+.frame-container,
+.frame-wrapper1,
+.refund-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-container {
+  align-items: flex-start;
+  text-align: left;
+  font-size: 2rem;
+  color: #2e3646;
+}
+.refund-parent {
+  position: absolute;
+  top: 5rem;
+  left: 0;
+  background: linear-gradient(180deg, #ebfffe 0.01%, rgba(249, 251, 253, 0));
+  padding: 5rem 0 0;
+  align-items: center;
+  gap: 5rem;
+}
+.refund-child,
+.refund-item {
+  position: absolute;
+  top: 7.69rem;
+  left: 19.63rem;
+  width: 18.06rem;
+  height: 8.25rem;
+}
+.refund-item {
+  left: 85.56rem;
+}
+.refund {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 68.25rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 2.25rem;
+  color: #41b79b;
+  font-family: Sora;
+}

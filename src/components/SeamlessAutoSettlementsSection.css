@@ -1,0 +1,54 @@
+.vector-icon25 {
+  position: absolute;
+  width: 24.53%;
+  top: calc(50% - 280px);
+  right: 56.41%;
+  left: 19.06%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 35.25rem;
+}
+.seamless-auto-settlements {
+  align-self: stretch;
+  position: relative;
+  line-height: 4.5rem;
+  font-weight: 600;
+}
+.we-ensure-on-time {
+  align-self: stretch;
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+.seamless-auto-settlements-for-parent {
+  position: absolute;
+  top: calc(50% - 142px);
+  left: 45.75rem;
+  width: 55.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.75rem;
+}
+.device-icon {
+  position: absolute;
+  top: 6.19rem;
+  left: 19.5rem;
+  width: 19rem;
+  height: 36.38rem;
+  object-fit: cover;
+}
+.vector-parent13 {
+  position: absolute;
+  top: 157.69rem;
+  left: calc(50% - 960px);
+  background-color: #fff;
+  width: 120rem;
+  height: 48.75rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 3.75rem;
+  color: #333949;
+  font-family: Sora;
+}

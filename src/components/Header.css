@@ -1,0 +1,55 @@
+.background3-2-icon {
+  position: relative;
+  width: 6.88rem;
+  height: 3.5rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.text15 {
+  position: relative;
+  line-height: 1.5rem;
+  font-weight: 600;
+}
+.chevron-right-icon {
+  position: relative;
+  width: 1.25rem;
+  height: 1.25rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.component-2-parent,
+.text-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-2-parent {
+  align-items: flex-start;
+  gap: 1.5rem;
+}
+.frame-parent38,
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.frame-parent38 {
+  justify-content: flex-start;
+  gap: 2rem;
+}
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-bottom: 1px solid #e6e6e7;
+  box-sizing: border-box;
+  width: 120rem;
+  padding: 0.75rem 18.75rem;
+  justify-content: space-between;
+  text-align: left;
+  font-size: 1rem;
+  color: #2e3646;
+  font-family: Sora;
+}

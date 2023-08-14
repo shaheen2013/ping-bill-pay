@@ -1,0 +1,45 @@
+.customer-service-focused {
+  align-self: stretch;
+  position: relative;
+  line-height: 4.5rem;
+  font-weight: 600;
+}
+.our-customer-service {
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  text-align: justify;
+  display: inline-block;
+  width: 45.19rem;
+}
+.customer-service-focused-on-va-parent {
+  position: absolute;
+  top: calc(50% - 208px);
+  left: 18.75rem;
+  width: 47.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.75rem;
+}
+.image-icon3 {
+  position: absolute;
+  top: 9.5rem;
+  left: 66.66rem;
+  width: 34.66rem;
+  height: 28.63rem;
+}
+.frame-parent47 {
+  position: absolute;
+  top: 108.94rem;
+  left: calc(50% - 960px);
+  background-color: #41b79b;
+  width: 120rem;
+  height: 48.75rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 3.75rem;
+  color: #f9fbfd;
+  font-family: Sora;
+}

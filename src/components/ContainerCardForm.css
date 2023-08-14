@@ -1,0 +1,108 @@
+.image-icon {
+  align-self: stretch;
+  position: relative;
+  border-radius: 6px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 16.25rem;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading35 {
+  flex: 1;
+  position: relative;
+  line-height: 2rem;
+  font-weight: 600;
+}
+.heading-and-icon {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1rem;
+}
+.supporting-text7 {
+  align-self: stretch;
+  position: relative;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  display: -webkit-inline-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+.heading-and-text {
+  gap: 0.75rem;
+}
+.heading-and-subheading,
+.heading-and-text {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text22 {
+  position: relative;
+  line-height: 1.5rem;
+  font-weight: 600;
+}
+.arrow-up-right-icon {
+  position: relative;
+  width: 1.5rem;
+  height: 1.5rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.buttonprimary1 {
+  border-radius: 8px;
+  background-color: #41b79b;
+  display: flex;
+  flex-direction: row;
+  padding: 0.75rem 1.5rem;
+  align-items: center;
+  justify-content: center;
+  gap: 0.63rem;
+  font-size: 1rem;
+  color: #fff;
+  font-family: Sora;
+}
+.blog-post-card,
+.buttonprimary2 {
+  border-radius: 8px;
+  background-color: #f9fbfd;
+  display: flex;
+}
+.blog-post-card {
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+  width: 26.5rem;
+  flex-direction: column;
+  padding: 1rem;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 1.5rem;
+}
+.buttonprimary2 {
+  border: 1px solid #e0e0e0;
+  flex-direction: row;
+  padding: 0.75rem 1.5rem;
+  align-items: center;
+  justify-content: center;
+  gap: 0.63rem;
+  font-size: 1rem;
+  font-family: Sora;
+}
+.blog-post-card-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.5rem;
+  text-align: left;
+  font-size: 1.5rem;
+  color: #2e3646;
+  font-family: Inter;
+}

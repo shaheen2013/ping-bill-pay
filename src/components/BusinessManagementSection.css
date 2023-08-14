@@ -1,0 +1,44 @@
+.frame-child12 {
+  position: absolute;
+  top: calc(50% - 444px);
+  left: calc(50% - 660px);
+  height: 55.5rem;
+}
+.broad-range-of {
+  position: relative;
+  line-height: 4.5rem;
+  font-weight: 600;
+  display: inline-block;
+  width: 82.5rem;
+}
+.broad-range-of-features-to-ass-parent,
+.frame-parent49 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent49 {
+  gap: 1.5rem;
+  font-size: 1.25rem;
+  color: #2e3646;
+}
+.broad-range-of-features-to-ass-parent {
+  position: absolute;
+  top: calc(50% - 330px);
+  left: 18.75rem;
+  gap: 3.75rem;
+}
+.frame-parent48 {
+  position: absolute;
+  top: 297.69rem;
+  left: calc(50% - 960px);
+  background-color: #def5f0;
+  width: 120rem;
+  height: 55.5rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 3.75rem;
+  color: #41b79b;
+  font-family: Sora;
+}

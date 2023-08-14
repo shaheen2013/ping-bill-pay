@@ -1,0 +1,140 @@
+.implementation2 {
+  position: relative;
+  line-height: 2.5rem;
+  font-weight: 600;
+}
+.frame-child31 {
+  position: relative;
+  border-radius: 50%;
+  background-color: #f9fbfd;
+  box-shadow: 0 7px 45px rgba(65, 183, 155, 0.3);
+  width: 8.63rem;
+  height: 8.63rem;
+  z-index: 0;
+}
+.marketing-campaigns {
+  position: relative;
+  font-weight: 600;
+}
+.aaa-wireless-shop2 {
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  color: #494f5f;
+  text-align: center;
+  display: inline-block;
+  width: 36.44rem;
+  height: 10.06rem;
+  flex-shrink: 0;
+}
+.marketing-campaigns-parent {
+  width: 36.44rem;
+  height: 12.81rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.88rem;
+  z-index: 1;
+}
+.frame-child32 {
+  position: absolute;
+  margin: 0 !important;
+  height: 20.26%;
+  width: 13.16%;
+  top: 7.79%;
+  right: 43.27%;
+  bottom: 71.95%;
+  left: 43.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.ellipse-parent16 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  gap: 2.63rem;
+}
+.frame-parent84,
+.implementation-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent84 {
+  width: 82.25rem;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 3.44rem;
+  font-size: 1.5rem;
+}
+.implementation-container {
+  width: 82.5rem;
+  flex-direction: column;
+  gap: 2rem;
+}
+.conclusion2,
+.the-wireless-stores2 {
+  position: relative;
+  line-height: 1.75rem;
+}
+.conclusion2 {
+  align-self: stretch;
+  font-weight: 600;
+}
+.the-wireless-stores2 {
+  font-size: 1.25rem;
+  color: #494f5f;
+  text-align: justify;
+  display: inline-block;
+  width: 82.5rem;
+}
+.conclusion-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+.this-case-study3 {
+  margin: 0;
+}
+.this-case-study-container1 {
+  flex: 1;
+  position: relative;
+  line-height: 1.75rem;
+  display: inline-block;
+  height: 5.13rem;
+}
+.this-case-study-underscores-th-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: justify;
+  font-size: 1.25rem;
+  color: #494f5f;
+}
+.frame-parent83,
+.frame-parent85 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent85 {
+  width: 82.5rem;
+  gap: 1.13rem;
+}
+.frame-parent83 {
+  gap: 3.75rem;
+  text-align: left;
+  font-size: 3rem;
+  color: #41b79b;
+  font-family: Sora;
+}

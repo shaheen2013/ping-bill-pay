@@ -1,0 +1,125 @@
+.industries {
+  position: relative;
+  line-height: 4.5rem;
+  font-weight: 600;
+  display: inline-block;
+  width: 55.5rem;
+}
+.industries-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-child13 {
+  position: relative;
+  width: 6rem;
+  height: 6rem;
+}
+.text34 {
+  position: relative;
+  line-height: 1.75rem;
+  font-weight: 600;
+  display: inline-block;
+  width: 13.88rem;
+}
+.vector-icon24 {
+  position: relative;
+  width: 6.56rem;
+  height: 6.29rem;
+}
+.text35 {
+  position: relative;
+  line-height: 1.75rem;
+  font-weight: 600;
+}
+.frame-parent52,
+.vector-parent8 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.vector-parent8 {
+  justify-content: flex-start;
+  gap: 1.5rem;
+  text-align: left;
+}
+.frame-parent52 {
+  justify-content: center;
+  gap: 4.56rem;
+}
+.money-icon {
+  position: relative;
+  width: 6rem;
+  height: 6rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.money-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+}
+.group-icon4 {
+  position: relative;
+  width: 6rem;
+  height: 7.38rem;
+}
+.frame-parent53 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 3rem;
+}
+.group-icon5,
+.group-icon6 {
+  position: relative;
+  width: 6rem;
+  height: 5.6rem;
+}
+.group-icon6 {
+  height: 7.98rem;
+}
+.frame-parent54,
+.group-parent5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-parent5 {
+  height: 7.75rem;
+  gap: 1.5rem;
+}
+.frame-parent54 {
+  gap: 3rem;
+  text-align: left;
+}
+.frame-parent50,
+.frame-parent51 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-parent51 {
+  width: 82.5rem;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: center;
+  font-size: 1.5rem;
+  color: #2e3646;
+}
+.frame-parent50 {
+  position: absolute;
+  top: 261.44rem;
+  left: calc(50% - 660px);
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 3.75rem;
+  text-align: left;
+  font-size: 3.75rem;
+  color: #41b79b;
+  font-family: Sora;
+}

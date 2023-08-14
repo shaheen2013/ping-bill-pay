@@ -1,0 +1,103 @@
+.frame-child10 {
+  position: absolute;
+  top: 1.31rem;
+  left: 34.19rem;
+  width: 18.06rem;
+  height: 8.25rem;
+}
+.case-studies {
+  align-self: stretch;
+  position: relative;
+  line-height: 4.5rem;
+  font-weight: 600;
+}
+.success-stories-navigating {
+  align-self: stretch;
+  position: relative;
+  font-size: 1.5rem;
+  line-height: 2.25rem;
+  color: #828282;
+}
+.case-studies-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1.5rem;
+}
+.search-refraction-icon {
+  position: relative;
+  width: 1.25rem;
+  height: 1.25rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.text21 {
+  flex: 1;
+  position: relative;
+  line-height: 1.5rem;
+}
+.content4 {
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+}
+.content4,
+.frame-parent43,
+.input {
+  display: flex;
+  justify-content: flex-start;
+}
+.input {
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #fff;
+  border: 1px solid #d0d5dd;
+  box-sizing: border-box;
+  height: 3rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: 0.75rem 0.88rem;
+  align-items: center;
+  font-size: 1rem;
+  color: #001d51;
+}
+.frame-parent43 {
+  width: 40.38rem;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3rem;
+}
+.tick-with-a-pencil-converted-icon {
+  position: relative;
+  width: 30.33rem;
+  height: 21.25rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-parent42 {
+  position: absolute;
+  top: 7rem;
+  left: 18.75rem;
+  width: 82.5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.group-container {
+  position: absolute;
+  top: 5rem;
+  left: calc(50% - 960px);
+  background: linear-gradient(180deg, #ebfffe 0.01%, rgba(249, 251, 253, 0));
+  width: 120rem;
+  height: 35.25rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 3.75rem;
+  color: #2e3646;
+  font-family: Sora;
+}

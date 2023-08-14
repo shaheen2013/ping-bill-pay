@@ -1,0 +1,84 @@
+.dmca1,
+.heading {
+  position: relative;
+  line-height: 2.5rem;
+}
+.heading {
+  font-weight: 600;
+}
+.content-item {
+  width: 45rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.celleup-llc-abides {
+  margin: 0;
+}
+.paragraph {
+  align-self: stretch;
+  position: relative;
+  line-height: 1.5rem;
+}
+.content-item1,
+.paragraph-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content-item1 {
+  font-size: 1rem;
+  color: #585e6b;
+}
+.content-item-parent {
+  width: 82.5rem;
+  align-items: flex-start;
+  gap: 1.5rem;
+}
+.content-item-parent,
+.dmca-parent,
+.frame-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent {
+  align-items: flex-start;
+  gap: 3rem;
+  text-align: left;
+  font-size: 2rem;
+  color: #2e3646;
+}
+.dmca-parent {
+  position: absolute;
+  top: 5rem;
+  left: 0;
+  background: linear-gradient(180deg, #ebfffe 0.01%, rgba(249, 251, 253, 0));
+  padding: 5rem 0 0;
+  align-items: center;
+  gap: 5rem;
+}
+.dmca-child,
+.dmca-item {
+  position: absolute;
+  top: 7.69rem;
+  left: 19.63rem;
+  width: 18.06rem;
+  height: 8.25rem;
+}
+.dmca-item {
+  left: 85.56rem;
+}
+.dmca {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 125.75rem;
+  text-align: center;
+  font-size: 2.25rem;
+  color: #41b79b;
+  font-family: Sora;
+}

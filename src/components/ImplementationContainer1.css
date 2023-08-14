@@ -1,0 +1,168 @@
+.implementation1 {
+  position: relative;
+  line-height: 2.5rem;
+  font-weight: 600;
+}
+.frame-child29 {
+  position: relative;
+  border-radius: 50%;
+  background-color: #f9fbfd;
+  box-shadow: 0 7px 45px rgba(65, 183, 155, 0.3);
+  width: 8.63rem;
+  height: 8.63rem;
+  z-index: 0;
+}
+.in-store-activations {
+  position: relative;
+  font-weight: 600;
+}
+.recognizing-the-increasing {
+  margin: 0;
+}
+.recognizing-the-increasing-container {
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  color: #494f5f;
+  text-align: center;
+  display: inline-block;
+  width: 36.69rem;
+  height: 10.13rem;
+  flex-shrink: 0;
+}
+.in-store-activations-parent {
+  width: 36.69rem;
+  height: 12.56rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.88rem;
+  z-index: 1;
+}
+.vector-icon28 {
+  position: absolute;
+  margin: 0 !important;
+  top: 1.88rem;
+  left: 15.94rem;
+  width: 4.88rem;
+  height: 4.88rem;
+  z-index: 2;
+}
+.ellipse-parent14 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  gap: 2.63rem;
+}
+.in-addition-to {
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  color: #494f5f;
+  text-align: center;
+  display: inline-block;
+  width: 36.44rem;
+  height: 10.06rem;
+  flex-shrink: 0;
+}
+.diversification-of-product-off-parent {
+  width: 36.44rem;
+  height: 12.81rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.88rem;
+  z-index: 1;
+}
+.vector-icon29 {
+  position: absolute;
+  margin: 0 !important;
+  height: 20.26%;
+  width: 13.81%;
+  top: 7.83%;
+  right: 42.96%;
+  bottom: 71.91%;
+  left: 43.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.frame-parent81,
+.implementation-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent81 {
+  width: 82.25rem;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 3.44rem;
+  font-size: 1.5rem;
+}
+.implementation-group {
+  width: 82.5rem;
+  flex-direction: column;
+  gap: 2rem;
+}
+.conclusion1,
+.swifts-decision-to {
+  position: relative;
+  line-height: 1.75rem;
+}
+.conclusion1 {
+  align-self: stretch;
+  font-weight: 600;
+}
+.swifts-decision-to {
+  font-size: 1.25rem;
+  color: #494f5f;
+  display: inline-block;
+  width: 82.5rem;
+}
+.conclusion-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+.by-embracing-innovation {
+  flex: 1;
+  position: relative;
+  line-height: 1.75rem;
+  display: inline-block;
+  height: 5.25rem;
+}
+.by-embracing-innovation-and-ad-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  color: #494f5f;
+}
+.frame-parent80,
+.frame-parent82 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent82 {
+  width: 82.5rem;
+  gap: 1.13rem;
+}
+.frame-parent80 {
+  gap: 3.75rem;
+  text-align: left;
+  font-size: 3rem;
+  color: #41b79b;
+  font-family: Sora;
+}

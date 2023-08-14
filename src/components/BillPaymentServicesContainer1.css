@@ -1,0 +1,60 @@
+.frame-child28 {
+  position: relative;
+  border-radius: 50%;
+  background-color: #f9fbfd;
+  box-shadow: 0 7px 45px rgba(65, 183, 155, 0.3);
+  width: 8.63rem;
+  height: 8.63rem;
+  z-index: 0;
+}
+.bill-payment-services {
+  position: relative;
+  font-weight: 600;
+}
+.swift-integrated-bill {
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  color: #494f5f;
+  text-align: center;
+  display: inline-block;
+  width: 42.38rem;
+  height: 8.69rem;
+  flex-shrink: 0;
+}
+.bill-payment-services-parent {
+  width: 42.38rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.88rem;
+  z-index: 1;
+}
+.group-icon8 {
+  position: absolute;
+  margin: 0 !important;
+  height: 20.26%;
+  width: 11.5%;
+  top: 7.79%;
+  right: 44.69%;
+  bottom: 71.95%;
+  left: 43.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.ellipse-parent13 {
+  height: 24.06rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  gap: 2.63rem;
+  text-align: left;
+  font-size: 1.5rem;
+  color: #41b79b;
+  font-family: Sora;
+}

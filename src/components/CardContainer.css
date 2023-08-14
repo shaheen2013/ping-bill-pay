@@ -1,0 +1,42 @@
+.icon15 {
+  position: relative;
+  width: 3rem;
+  height: 3rem;
+}
+.supporting-text14,
+.text47 {
+  align-self: stretch;
+  position: relative;
+}
+.text47 {
+  line-height: 2rem;
+  font-weight: 600;
+}
+.supporting-text14 {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+.content13,
+.text-and-supporting-text3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.text-and-supporting-text3 {
+  align-self: stretch;
+  justify-content: center;
+  gap: 1rem;
+}
+.content13 {
+  border-radius: 8px;
+  background-color: #cdede6;
+  width: 26.5rem;
+  padding: 1.5rem;
+  box-sizing: border-box;
+  justify-content: flex-start;
+  gap: 1.5rem;
+  text-align: left;
+  font-size: 1.25rem;
+  color: #2e3646;
+  font-family: Sora;
+}

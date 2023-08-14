@@ -1,0 +1,52 @@
+.icon6,
+.text31 {
+  position: relative;
+}
+.icon6 {
+  width: 3rem;
+  height: 3rem;
+}
+.text31 {
+  align-self: stretch;
+  line-height: 2rem;
+  font-weight: 600;
+}
+.learn-more {
+  color: #41b79b;
+}
+.supporting-text10 {
+  align-self: stretch;
+  position: relative;
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+.text-and-supporting-text {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 1rem;
+}
+.content-parent,
+.content8 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.5rem;
+}
+.content8 {
+  border-radius: 8px;
+  background-color: rgba(51, 167, 140, 0.1);
+  width: 26.5rem;
+  flex-direction: column;
+  padding: 1.5rem;
+  box-sizing: border-box;
+}
+.content-parent {
+  flex-direction: row;
+  text-align: left;
+  font-size: 1.25rem;
+  color: #2e3646;
+  font-family: Sora;
+}

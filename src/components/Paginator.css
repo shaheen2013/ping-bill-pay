@@ -1,0 +1,49 @@
+.arrow-left-icon {
+  position: relative;
+  width: 1.25rem;
+  height: 1.25rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.text25 {
+  position: relative;
+  line-height: 1.25rem;
+  font-weight: 600;
+}
+.placeholder-icon {
+  position: relative;
+  width: 1.25rem;
+  height: 1.25rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button,
+.pagination-numbers {
+  display: flex;
+  flex-direction: row;
+}
+.button {
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+.pagination-numbers {
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.13rem;
+}
+.pagination {
+  align-self: stretch;
+  border-top: 1px solid #eaecf0;
+  display: flex;
+  flex-direction: row;
+  padding: 1.25rem 0 0;
+  align-items: center;
+  justify-content: space-between;
+  text-align: left;
+  font-size: 0.88rem;
+  color: #475467;
+  font-family: Sora;
+}

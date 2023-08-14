@@ -1,0 +1,136 @@
+.case-study2 {
+  position: relative;
+  line-height: 1.75rem;
+}
+.swift-convenient-stores {
+  position: relative;
+  font-size: 3.75rem;
+  line-height: 4.5rem;
+  font-weight: 600;
+  color: #2e3646;
+}
+.boosting-business-through {
+  position: relative;
+  font-size: 2rem;
+  line-height: 3.13rem;
+  color: #828282;
+  display: inline-block;
+  width: 70.63rem;
+}
+.case-study-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1.75rem;
+}
+.in-this-case {
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  color: #494f5f;
+  display: inline-block;
+  width: 82.5rem;
+}
+.introduction-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+.by-adapting-to {
+  flex: 1;
+  position: relative;
+  line-height: 1.75rem;
+  display: inline-block;
+  height: 5.13rem;
+}
+.by-adapting-to-changing-market-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  color: #494f5f;
+}
+.frame-parent71,
+.frame-parent72 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent72 {
+  width: 82.5rem;
+  align-items: flex-start;
+  gap: 1.13rem;
+  text-align: left;
+  font-size: 3rem;
+}
+.frame-parent71 {
+  align-items: center;
+  gap: 3.75rem;
+}
+.plant-icon2 {
+  position: relative;
+  width: 42.33rem;
+  height: 25.49rem;
+}
+.frame-parent70 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 3.75rem;
+  text-align: center;
+  font-size: 2.25rem;
+}
+.swift-a-well-known {
+  align-self: stretch;
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  color: #494f5f;
+}
+.background-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+.the-companys-leadership {
+  flex: 1;
+  position: relative;
+  line-height: 1.75rem;
+}
+.frame-parent73 {
+  width: 82.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.13rem;
+}
+.strategy {
+  align-self: stretch;
+  position: relative;
+  line-height: 1.75rem;
+  font-weight: 600;
+}
+.by-partnering-with {
+  margin: 0;
+}
+.frame-parent69 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.75rem;
+  text-align: left;
+  font-size: 3rem;
+  color: #41b79b;
+  font-family: Sora;
+}

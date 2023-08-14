@@ -1,0 +1,114 @@
+.frame-child34 {
+  position: absolute;
+  top: calc(50% - 444px);
+  left: calc(50% - 660px);
+  height: 55.5rem;
+}
+.broad-range-of1 {
+  line-height: 4.5rem;
+  font-weight: 600;
+  display: inline-block;
+  width: 82.5rem;
+}
+.broad-range-of1,
+.icon16,
+.text48 {
+  position: relative;
+}
+.icon16 {
+  width: 3rem;
+  height: 3rem;
+}
+.text48 {
+  align-self: stretch;
+  line-height: 2rem;
+  font-weight: 600;
+}
+.learn-more3 {
+  color: #41b79b;
+}
+.supporting-text15 {
+  align-self: stretch;
+  position: relative;
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+.text-and-supporting-text4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 1rem;
+}
+.content-container,
+.content-group,
+.content14 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.5rem;
+}
+.content14 {
+  border-radius: 8px;
+  background-color: rgba(51, 167, 140, 0.1);
+  width: 26.5rem;
+  flex-direction: column;
+  padding: 1.5rem;
+  box-sizing: border-box;
+}
+.content-container,
+.content-group {
+  flex-direction: row;
+  z-index: 0;
+}
+.content-container {
+  z-index: 1;
+}
+.content15 {
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 28rem;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.15);
+  width: 26.5rem;
+  padding: 1.5rem;
+  box-sizing: border-box;
+  gap: 1.5rem;
+  z-index: 2;
+}
+.broad-range-of-features-to-ass-group,
+.content15,
+.frame-parent88 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent88 {
+  position: relative;
+  gap: 1.5rem;
+  font-size: 1.25rem;
+  color: #2e3646;
+}
+.broad-range-of-features-to-ass-group {
+  position: absolute;
+  top: calc(50% - 330px);
+  left: 18.75rem;
+  gap: 3.75rem;
+}
+.frame-parent87 {
+  position: absolute;
+  top: 297.69rem;
+  left: calc(50% - 960px);
+  background-color: #def5f0;
+  width: 120rem;
+  height: 55.5rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 3.75rem;
+  color: #41b79b;
+  font-family: Sora;
+}
