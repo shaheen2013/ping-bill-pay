@@ -10,13 +10,22 @@
   position: relative;
   line-height: 1.5rem;
   font-weight: 600;
+  color: #2e3646;
 }
+.text15:hover {
+  position: relative;
+  line-height: 1.5rem;
+  font-weight: 600;
+  color: #41b79b;
+}
+
 .chevron-right-icon {
   position: relative;
   width: 1.25rem;
   height: 1.25rem;
   overflow: hidden;
   flex-shrink: 0;
+  color: #2e3646;
 }
 .component-2-parent,
 .text-wrapper {
@@ -52,4 +61,34 @@
   font-size: 1rem;
   color: #2e3646;
   font-family: Sora;
+}
+
+.dropdown {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .chevron-right-icon {
+  transform: rotate(180deg);
+}
+
+.text15.dropdown:hover {
+  cursor: pointer;
+  transition: color 0.3s ease;
 }

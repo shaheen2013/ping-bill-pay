@@ -1,15 +1,15 @@
-import Header from "../components/Header";
-import PrepaidEcosystemAccessSection from "../components/PrepaidEcosystemAccessSection";
-import PaymentSection from "../components/PaymentSection";
-import CustomerServiceSection from "../components/CustomerServiceSection";
-import BusinessManagementSection1 from "../components/BusinessManagementSection1";
-import ContainerIndustries from "../components/ContainerIndustries";
-import QuoteCard from "../components/QuoteCard";
-import SectionCard1 from "../components/SectionCard1";
-import CardSection from "../components/CardSection";
-import FastAndEasyEnrollmentSection from "../components/FastAndEasyEnrollmentSection";
-import SeamlessAutoSettlementsSection from "../components/SeamlessAutoSettlementsSection";
-import "./LandingPageV5state2.css";
+import Header from '../components/Header';
+import PrepaidEcosystemAccessSection from '../components/PrepaidEcosystemAccessSection';
+import PaymentSection from '../components/PaymentSection';
+import CustomerServiceSection from '../components/CustomerServiceSection';
+import BusinessManagementSection1 from '../components/BusinessManagementSection1';
+import ContainerIndustries from '../components/ContainerIndustries';
+import QuoteCard from '../components/QuoteCard';
+import SectionCard1 from '../components/SectionCard1';
+import CardSection from '../components/CardSection';
+import FastAndEasyEnrollmentSection from '../components/FastAndEasyEnrollmentSection';
+import SeamlessAutoSettlementsSection from '../components/SeamlessAutoSettlementsSection';
+import './LandingPageV5state2.css';
 const LandingPageV5state2 = () => {
   return (
     <div className="landing-page-v5state-2">
@@ -37,8 +37,7 @@ const LandingPageV5state2 = () => {
             <p className="what-our-clients1">are Saying?</p>
           </div>
           <div className="the-client-can1">
-            The client can evaluate the level of customer service provided by
-            Ping Bill Pay.
+            The client can evaluate the level of customer service provided by Ping Bill Pay.
           </div>
           <div className="frame-parent28">
             <div className="parent1">
@@ -66,16 +65,10 @@ const LandingPageV5state2 = () => {
               <div className="frame-child2" />
               <div className="frame-parent30">
                 <div className="ellipse-parent1">
-                  <img
-                    className="frame-child3"
-                    alt=""
-                    src="/ellipse-1917@2x.png"
-                  />
+                  <img className="frame-child3" alt="" src="/ellipse-1917@2x.png" />
                   <div className="text-parent1">
                     <b className="text5">Renee Wells</b>
-                    <div className="supporting-text3">
-                      Product Designer, Quotient
-                    </div>
+                    <div className="supporting-text3">Product Designer, Quotient</div>
                   </div>
                 </div>
                 <div className="wrapper1">
@@ -98,16 +91,10 @@ const LandingPageV5state2 = () => {
               <div className="frame-child4" />
               <div className="frame-parent31">
                 <div className="ellipse-parent2">
-                  <img
-                    className="frame-child3"
-                    alt=""
-                    src="/ellipse-19171@2x.png"
-                  />
+                  <img className="frame-child3" alt="" src="/ellipse-19171@2x.png" />
                   <div className="text-parent1">
                     <b className="text5">Renee Wells</b>
-                    <div className="supporting-text4">
-                      Product Designer, Quotient
-                    </div>
+                    <div className="supporting-text4">Product Designer, Quotient</div>
                   </div>
                 </div>
                 <div className="wrapper2">
@@ -130,16 +117,10 @@ const LandingPageV5state2 = () => {
               <div className="frame-child2" />
               <div className="frame-parent30">
                 <div className="ellipse-parent1">
-                  <img
-                    className="frame-child3"
-                    alt=""
-                    src="/ellipse-1917@2x.png"
-                  />
+                  <img className="frame-child3" alt="" src="/ellipse-1917@2x.png" />
                   <div className="text-parent1">
                     <div className="text7">Renee Wells</div>
-                    <div className="supporting-text3">
-                      Product Designer, Quotient
-                    </div>
+                    <div className="supporting-text3">Product Designer, Quotient</div>
                   </div>
                 </div>
                 <div className="wrapper1">
@@ -151,17 +132,13 @@ const LandingPageV5state2 = () => {
         </div>
       </div>
       <SectionCard1 />
-      <CardSection
-        dimensions="/group-402.svg"
-        propTop="421.94rem"
-        propOverflow="hidden"
-      />
-      <div className="about-us-parent">
+      <CardSection dimensions="/group-402.svg" propTop="421.94rem" propOverflow="hidden" />
+      {/* <div className="about-us-parent">
         <div className="about-us">About us</div>
         <div className="about-us">Contact us</div>
         <div className="about-us">Support</div>
         <div className="about-us">Become a Reseller</div>
-      </div>
+      </div> */}
       <FastAndEasyEnrollmentSection formDescription="Start by completing the online registration process through the Sign up for free link." />
       <SeamlessAutoSettlementsSection />
     </div>

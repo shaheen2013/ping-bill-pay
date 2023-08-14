@@ -1,15 +1,16 @@
-import Header from "../components/Header";
-import PrepaidEcosystemAccessSection from "../components/PrepaidEcosystemAccessSection";
-import PaymentSection from "../components/PaymentSection";
-import CustomerServiceSection from "../components/CustomerServiceSection";
-import BusinessManagementSection from "../components/BusinessManagementSection";
-import ContainerIndustries from "../components/ContainerIndustries";
-import QuoteCard from "../components/QuoteCard";
-import SectionCard1 from "../components/SectionCard1";
-import CardSection1 from "../components/CardSection1";
-import FastAndEasyEnrollmentSection from "../components/FastAndEasyEnrollmentSection";
-import SeamlessAutoSettlementsSection from "../components/SeamlessAutoSettlementsSection";
-import "./LandingPageProductFeature.css";
+import Header from '../components/Header';
+import PrepaidEcosystemAccessSection from '../components/PrepaidEcosystemAccessSection';
+import PaymentSection from '../components/PaymentSection';
+import CustomerServiceSection from '../components/CustomerServiceSection';
+import BusinessManagementSection from '../components/BusinessManagementSection';
+import ContainerIndustries from '../components/ContainerIndustries';
+import QuoteCard from '../components/QuoteCard';
+import SectionCard1 from '../components/SectionCard1';
+import CardSection1 from '../components/CardSection1';
+import FastAndEasyEnrollmentSection from '../components/FastAndEasyEnrollmentSection';
+import SeamlessAutoSettlementsSection from '../components/SeamlessAutoSettlementsSection';
+import './LandingPageProductFeature.css';
+
 const LandingPageProductFeature = () => {
   return (
     <div className="landing-page-product-feature">
@@ -34,8 +35,7 @@ const LandingPageProductFeature = () => {
             <p className="what-our-clients">are Saying?</p>
           </div>
           <div className="the-client-can">
-            The client can evaluate the level of customer service provided by
-            the business
+            The client can evaluate the level of customer service provided by the business
           </div>
           <div className="frame-parent5">
             <div className="parent">
@@ -62,16 +62,10 @@ const LandingPageProductFeature = () => {
               <div className="frame-child" />
               <div className="frame-parent7">
                 <div className="ellipse-parent">
-                  <img
-                    className="frame-item"
-                    alt=""
-                    src="/ellipse-1917@2x.png"
-                  />
+                  <img className="frame-item" alt="" src="/ellipse-1917@2x.png" />
                   <div className="text-parent">
                     <b className="text2">Renee Wells</b>
-                    <div className="supporting-text">
-                      Product Designer, Quotient
-                    </div>
+                    <div className="supporting-text">Product Designer, Quotient</div>
                   </div>
                 </div>
                 <div className="wrapper">
@@ -94,16 +88,10 @@ const LandingPageProductFeature = () => {
               <div className="frame-inner" />
               <div className="frame-parent8">
                 <div className="ellipse-group">
-                  <img
-                    className="frame-item"
-                    alt=""
-                    src="/ellipse-19171@2x.png"
-                  />
+                  <img className="frame-item" alt="" src="/ellipse-19171@2x.png" />
                   <div className="text-parent">
                     <b className="text2">Renee Wells</b>
-                    <div className="supporting-text1">
-                      Product Designer, Quotient
-                    </div>
+                    <div className="supporting-text1">Product Designer, Quotient</div>
                   </div>
                 </div>
                 <div className="container">
@@ -126,16 +114,10 @@ const LandingPageProductFeature = () => {
               <div className="frame-child" />
               <div className="frame-parent7">
                 <div className="ellipse-parent">
-                  <img
-                    className="frame-item"
-                    alt=""
-                    src="/ellipse-1917@2x.png"
-                  />
+                  <img className="frame-item" alt="" src="/ellipse-1917@2x.png" />
                   <div className="text-parent">
                     <div className="text4">Renee Wells</div>
-                    <div className="supporting-text">
-                      Product Designer, Quotient
-                    </div>
+                    <div className="supporting-text">Product Designer, Quotient</div>
                   </div>
                 </div>
                 <div className="wrapper">
