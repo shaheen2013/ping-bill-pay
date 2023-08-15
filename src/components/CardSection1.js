@@ -59,9 +59,9 @@ const CardSection1 = ({
           <div className="content3">
             <div className="footer-text">Copyright 2023 © Pingbillpay.</div>
             <div className="social-icons">
+              {/* <img className="social-icon" alt="" src="/social-icon.svg" />
               <img className="social-icon" alt="" src="/social-icon.svg" />
-              <img className="social-icon" alt="" src="/social-icon.svg" />
-              <img className="social-icon" alt="" src="/social-icon.svg" />
+              <img className="social-icon" alt="" src="/social-icon.svg" /> */}
             </div>
           </div>
         </div>

@@ -8,7 +8,7 @@ const ImplementationContainer1 = () => {
     <div className="frame-parent80">
       <div className="implementation-group">
         <div className="implementation1">Implementation</div>
-        <div className="frame-parent81">
+        <div className="grid grid-cols-2 gap-10">
           <PartneringWithPingBillPayConta
             mobileTopUpDescription="Swift strategically collaborated with Ping Bill Pay, enabling customers to easily top up their mobile phones while shopping. By offering a diverse range of prepaid and postpaid plans, Swift became the go-to place for customers to recharge their phones."
             mobileTopUpPlans="/partners1.svg"
@@ -16,10 +16,10 @@ const ImplementationContainer1 = () => {
           <div className="ellipse-parent14">
             <div className="frame-child29" />
             <div className="in-store-activations-parent">
-              <div className="in-store-activations">In-Store Activations</div>
+              <div className="in-store-activations text-2xl">In-Store Activations</div>
               <div className="recognizing-the-increasing-container">
-                <p className="recognizing-the-increasing">Recognizing the increasing popularity of smart</p>
-                <p className="recognizing-the-increasing">
+                <p className="recognizing-the-increasing text-lg">Recognizing the increasing popularity of smart</p>
+                <p className="recognizing-the-increasing text-lg">
                   devices and IoT products, Swift started offering in-store activations for smartphones, smartwatches,
                   and other gadgets. Trained staff members guided customers through the setup process, ensuring a smooth
                   and hassle-free experience
@@ -36,8 +36,8 @@ const ImplementationContainer1 = () => {
           <div className="ellipse-parent14">
             <div className="frame-child29" />
             <div className="diversification-of-product-off-parent">
-              <div className="in-store-activations">Diversification of Product Offerings</div>
-              <div className="in-addition-to">
+              <div className="in-store-activations text-2xl">Diversification of Product Offerings</div>
+              <div className="in-addition-to text-lg">
                 In addition to mobile top-ups, activations, and bill payments, Swift expanded its product portfolio to
                 include other complementary items, such as phone accessories, power banks, and gift cards, to further
                 enhance customer convenience.
