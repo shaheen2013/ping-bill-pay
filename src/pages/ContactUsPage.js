@@ -3,9 +3,10 @@ import CardSection from '../components/CardSection';
 import ButtonPrimary from '../components/ButtonPrimary';
 import './ContactUsPage.css';
 
+
 const ContactUsPage = () => {
   return (
-    <div className="contact-us-page">
+    <div className="contact-us-page ">
       <Header
         dimensionLabel="/chevronright.svg"
         dimensionValue="/chevronright.svg"
@@ -54,43 +55,46 @@ const ContactUsPage = () => {
               <img className="man-6-icon" alt="" src="/man-6.svg" />
             </div>
           </div>
-          <div className="group-div">
-            <div className="rectangle-parent">
-              <div className="frame-child8" />
-              <div className="frame-parent35">
-                <div className="fill-the-form-for-a-free-consu-parent  w-full">
-                  <div className="fill-the-form-container">
-                    <p className="fill-the-form">{`Fill the form for a free consultation with `}</p>
-                    <p className="our-experts">our Experts!</p>
-                  </div>
-                  <div className='flex justify-between gap-5 mt-5  w-full '>
-                    <input type="text" placeholder="Name"
-                      className="text-sm focus:outline-none focus:border-[#33A78C]  w-1/2 h-12 border rounded-md px-3 mt-2" value=""
+          <div className=' w-full relative '>
+            <img className="absolute -left-48" alt="" src="/Vector.png" />
+            <div className="group-div mx-auto">
+              <div className="rectangle-parent">
+                <div className="frame-child8" />
+                <div className="frame-parent35">
+                  <div className="fill-the-form-for-a-free-consu-parent  w-full">
+                    <div className="fill-the-form-container">
+                      <p className="fill-the-form">{`Fill the form for a free consultation with `}</p>
+                      <p className="our-experts">our Experts!</p>
+                    </div>
+                    <div className='flex justify-between gap-5 mt-5  w-full '>
+                      <input type="text" placeholder="Name"
+                        className="text-sm focus:outline-none focus:border-[#33A78C]  w-1/2 h-12 border rounded-md px-3 mt-2" value=""
+                        name="phone" required="true" />
+                      <input type="text" placeholder="Phone"
+                        className=" w-1/2 text-sm focus:outline-none focus:border-[#33A78C]  h-12 border rounded-md px-3 mt-2" value=""
+                        name="mobile" required="true" />
+                    </div>
+
+                    <input type="email" placeholder="Email"
+                      className="text-sm focus:outline-none focus:border-[#33A78C] mt-5  w-full h-12 border rounded-md px-3 " value=""
                       name="phone" required="true" />
-                    <input type="text" placeholder="Phone"
-                      className=" w-1/2 text-sm focus:outline-none focus:border-[#33A78C]  h-12 border rounded-md px-3 mt-2" value=""
-                      name="mobile" required="true" />
+
+                    <textarea placeholder="Message" className='text-sm focus:outline-none focus:border-[#33A78C] mt-5  w-full  border rounded-md px-3 py-2 ' rows="6" />
+
                   </div>
-
-                  <input type="email" placeholder="Email"
-                    className="text-sm focus:outline-none focus:border-[#33A78C] mt-5  w-full h-12 border rounded-md px-3 " value=""
-                    name="phone" required="true" />
-
-                  <textarea placeholder="Message" className='text-sm focus:outline-none focus:border-[#33A78C] mt-5  w-full  border rounded-md px-3 py-2 ' rows="6" />
-
+                  <ButtonPrimary
+                    text="Submit"
+                    buttonPrimaryPosition="unset"
+                    buttonPrimaryBackgroundColor="#41b79b"
+                    buttonPrimaryPadding="0.75rem 1.5rem"
+                    buttonPrimaryWidth="10.29rem"
+                    textFontSize="1rem"
+                    textLineHeight="1.5rem"
+                    action={() => {
+                      console.log('clicked');
+                    }}
+                  />
                 </div>
-                <ButtonPrimary
-                  text="Submit"
-                  buttonPrimaryPosition="unset"
-                  buttonPrimaryBackgroundColor="#41b79b"
-                  buttonPrimaryPadding="0.75rem 1.5rem"
-                  buttonPrimaryWidth="10.29rem"
-                  textFontSize="1rem"
-                  textLineHeight="1.5rem"
-                  action={() => {
-                    console.log('clicked');
-                  }}
-                />
               </div>
             </div>
           </div>
