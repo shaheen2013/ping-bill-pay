@@ -1,5 +1,6 @@
-import { useMemo } from "react";
-import "./CardSection1.css";
+import { useMemo } from 'react';
+import './CardSection1.css';
+
 const CardSection1 = ({
   dimensionCode,
   dimensionCodeText,
@@ -27,9 +28,8 @@ const CardSection1 = ({
             <div className="logo-and-supporting-text">
               <img className="logo-icon" alt="" src="/logo@2x.png" />
               <div className="supporting-text6">
-                Ping Bill Pay offers the safest, simplest, fastest and most
-                convenient mobile top-up service for all major domestic and
-                international wireless carriers.
+                Ping Bill Pay offers the safest, simplest, fastest and most convenient mobile top-up service for all
+                major domestic and international wireless carriers.
               </div>
             </div>
             <div className="item-2">

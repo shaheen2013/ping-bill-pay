@@ -1,13 +1,12 @@
-import CardContainer1 from "./CardContainer1";
-import "./BusinessManagementSection.css";
+import CardContainer1 from './CardContainer1';
+import './BusinessManagementSection.css';
+
 const BusinessManagementSection = () => {
   return (
     <div className="frame-parent48">
       <div className="frame-child12" />
       <div className="broad-range-of-features-to-ass-parent">
-        <div className="broad-range-of">
-          Broad Range of Features to Assist you in Managing your Business
-        </div>
+        <div className="broad-range-of">Broad Range of Features to Assist you in Managing your Business</div>
         <div className="frame-parent49">
           <CardContainer1
             featureIconUrl="/icon.svg"

@@ -10,6 +10,7 @@ import CardSection from '../components/CardSection';
 import FastAndEasyEnrollmentSection from '../components/FastAndEasyEnrollmentSection';
 import SeamlessAutoSettlementsSection from '../components/SeamlessAutoSettlementsSection';
 import './LandingPageV5state2.css';
+
 const LandingPageV5state2 = () => {
   return (
     <div className="landing-page-v5state-2">

@@ -1,4 +1,5 @@
-import "./SectionCard.css";
+import './SectionCard.css';
+
 const SectionCard = () => {
   return (
     <div className="group-container">
@@ -7,26 +8,16 @@ const SectionCard = () => {
         <div className="frame-parent43">
           <div className="case-studies-parent">
             <div className="case-studies">Case studies</div>
-            <div className="success-stories-navigating">
-              Success stories: navigating business challenges together
-            </div>
+            <div className="success-stories-navigating">Success stories: navigating business challenges together</div>
           </div>
           <div className="input">
             <div className="content4">
-              <img
-                className="search-refraction-icon"
-                alt=""
-                src="/searchrefraction.svg"
-              />
+              <img className="search-refraction-icon" alt="" src="/searchrefraction.svg" />
               <div className="text21">Search</div>
             </div>
           </div>
         </div>
-        <img
-          className="tick-with-a-pencil-converted-icon"
-          alt=""
-          src="/22261001-tick-with-a-pencil-converted-1.svg"
-        />
+        <img className="tick-with-a-pencil-converted-icon" alt="" src="/22261001-tick-with-a-pencil-converted-1.svg" />
       </div>
     </div>
   );

@@ -1,4 +1,5 @@
-import "./PrepaidEcosystemAccessSection.css";
+import './PrepaidEcosystemAccessSection.css';
+
 const PrepaidEcosystemAccessSection = () => {
   return (
     <div className="frame-parent44">
@@ -6,14 +7,10 @@ const PrepaidEcosystemAccessSection = () => {
         <div className="frame-parent45">
           <div className="access-the-prepaid-ecosystem-i-parent">
             <div className="access-the-prepaid-ecosystem-i-parent">
-              <div className="access-the-prepaid">
-                Access the prepaid ecosystem instantly
-              </div>
+              <div className="access-the-prepaid">Access the prepaid ecosystem instantly</div>
               <div className="ping-offers-a">
-                Ping offers a cloud-based service platform, empowering dealers
-                with instant access to a vast array of global prepaid products,
-                and the ability to effortlessly engage with customers on
-                multiple needs.
+                Ping offers a cloud-based service platform, empowering dealers with instant access to a vast array of
+                global prepaid products, and the ability to effortlessly engage with customers on multiple needs.
               </div>
             </div>
             <div className="component-2">
@@ -46,38 +43,20 @@ const PrepaidEcosystemAccessSection = () => {
               </div>
             </div>
             <div className="actions1">
-              <img
-                className="mobile-app-store-badge"
-                alt=""
-                src="/mobile-app-store-badge.svg"
-              />
-              <img
-                className="mobile-app-store-badge1"
-                alt=""
-                src="/mobile-app-store-badge1.svg"
-              />
+              <img className="mobile-app-store-badge" alt="" src="/mobile-app-store-badge.svg" />
+              <img className="mobile-app-store-badge1" alt="" src="/mobile-app-store-badge1.svg" />
             </div>
           </div>
         </div>
       </div>
       <div className="frame-wrapper11">
         <div className="text-parent10">
-          <div className="text30">
-            Become a reseller and join our group of companies already growing
-          </div>
+          <div className="text30">Become a reseller and join our group of companies already growing</div>
           <div className="group-group">
             <img className="group-icon3" alt="" src="/group1.svg" />
             <img className="mask-group-icon" alt="" src="/mask-group@2x.png" />
-            <img
-              className="mask-group-icon1"
-              alt=""
-              src="/mask-group1@2x.png"
-            />
-            <img
-              className="mask-group-icon2"
-              alt=""
-              src="/mask-group2@2x.png"
-            />
+            <img className="mask-group-icon1" alt="" src="/mask-group1@2x.png" />
+            <img className="mask-group-icon2" alt="" src="/mask-group2@2x.png" />
             <img className="frame-child11" alt="" src="/group-35.svg" />
           </div>
         </div>

@@ -1,11 +1,7 @@
-import { useMemo } from "react";
-import "./CardContainer.css";
-const CardContainer = ({
-  iconImageUrl,
-  featureImageUrl,
-  retailerOnboardingText,
-  propBackgroundColor,
-}) => {
+import { useMemo } from 'react';
+import './CardContainer.css';
+
+const CardContainer = ({ iconImageUrl, featureImageUrl, retailerOnboardingText, propBackgroundColor }) => {
   const content1Style = useMemo(() => {
     return {
       backgroundColor: propBackgroundColor,

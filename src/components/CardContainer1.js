@@ -1,4 +1,5 @@
-import "./CardContainer1.css";
+import './CardContainer1.css';
+
 const CardContainer1 = ({
   featureIconUrl,
   featureDescription,

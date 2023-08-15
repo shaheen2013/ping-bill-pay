@@ -1,5 +1,6 @@
-import { useMemo } from "react";
-import "./IncreasedFootfallContainer.css";
+import { useMemo } from 'react';
+import './IncreasedFootfallContainer.css';
+
 const IncreasedFootfallContainer = ({
   productDimensions,
   benefitsDescription,

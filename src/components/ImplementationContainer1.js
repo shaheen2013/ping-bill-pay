@@ -1,7 +1,8 @@
-import PartneringWithPingBillPayConta from "./PartneringWithPingBillPayConta";
-import BillPaymentServicesContainer1 from "./BillPaymentServicesContainer1";
-import ResultsContainer from "./ResultsContainer";
-import "./ImplementationContainer1.css";
+import PartneringWithPingBillPayConta from './PartneringWithPingBillPayConta';
+import BillPaymentServicesContainer1 from './BillPaymentServicesContainer1';
+import ResultsContainer from './ResultsContainer';
+import './ImplementationContainer1.css';
+
 const ImplementationContainer1 = () => {
   return (
     <div className="frame-parent80">
@@ -17,14 +18,11 @@ const ImplementationContainer1 = () => {
             <div className="in-store-activations-parent">
               <div className="in-store-activations">In-Store Activations</div>
               <div className="recognizing-the-increasing-container">
+                <p className="recognizing-the-increasing">Recognizing the increasing popularity of smart</p>
                 <p className="recognizing-the-increasing">
-                  Recognizing the increasing popularity of smart
-                </p>
-                <p className="recognizing-the-increasing">
-                  devices and IoT products, Swift started offering in-store
-                  activations for smartphones, smartwatches, and other gadgets.
-                  Trained staff members guided customers through the setup
-                  process, ensuring a smooth and hassle-free experience
+                  devices and IoT products, Swift started offering in-store activations for smartphones, smartwatches,
+                  and other gadgets. Trained staff members guided customers through the setup process, ensuring a smooth
+                  and hassle-free experience
                 </p>
               </div>
             </div>
@@ -38,14 +36,11 @@ const ImplementationContainer1 = () => {
           <div className="ellipse-parent14">
             <div className="frame-child29" />
             <div className="diversification-of-product-off-parent">
-              <div className="in-store-activations">
-                Diversification of Product Offerings
-              </div>
+              <div className="in-store-activations">Diversification of Product Offerings</div>
               <div className="in-addition-to">
-                In addition to mobile top-ups, activations, and bill payments,
-                Swift expanded its product portfolio to include other
-                complementary items, such as phone accessories, power banks, and
-                gift cards, to further enhance customer convenience.
+                In addition to mobile top-ups, activations, and bill payments, Swift expanded its product portfolio to
+                include other complementary items, such as phone accessories, power banks, and gift cards, to further
+                enhance customer convenience.
               </div>
             </div>
             <img className="vector-icon29" alt="" src="/vector11.svg" />
@@ -72,19 +67,15 @@ const ImplementationContainer1 = () => {
         <div className="conclusion-group">
           <div className="conclusion1">Conclusion</div>
           <div className="swifts-decision-to">
-            Swift's decision to become a reseller for Ping Bill Pay and
-            accepting mobile top-ups, activations, bill payments, and other
-            products proved to be a pivotal move in transforming its business
-            model.
+            Swift's decision to become a reseller for Ping Bill Pay and accepting mobile top-ups, activations, bill
+            payments, and other products proved to be a pivotal move in transforming its business model.
           </div>
         </div>
         <div className="by-embracing-innovation-and-ad-wrapper">
           <div className="by-embracing-innovation">
-            By embracing innovation and addressing customer needs, Swift
-            successfully differentiated itself from competitors, achieving
-            growth and sustainability in an increasingly dynamic retail market.
-            This case study demonstrates the power of adaptation and
-            diversification in driving business success and elevating customer
+            By embracing innovation and addressing customer needs, Swift successfully differentiated itself from
+            competitors, achieving growth and sustainability in an increasingly dynamic retail market. This case study
+            demonstrates the power of adaptation and diversification in driving business success and elevating customer
             experiences
           </div>
         </div>

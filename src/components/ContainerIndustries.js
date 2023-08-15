@@ -1,4 +1,5 @@
-import "./ContainerIndustries.css";
+import './ContainerIndustries.css';
+
 const ContainerIndustries = ({ dimensionCode }) => {
   return (
     <div className="frame-parent50">

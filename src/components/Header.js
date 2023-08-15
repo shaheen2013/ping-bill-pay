@@ -2,11 +2,10 @@ import { useMemo } from 'react';
 import ButtonPrimary from './ButtonPrimary';
 import ButtonSecondary from './ButtonSecondary';
 import './Header.css';
-import './../pages/LandingPageProductFeature.css';
 
 const Header = () => {
   return (
-    <div className="header" style={{}}>
+    <div className="header">
       <img className="background3-2-icon" alt="" src="/background3-2@2x.png" />
       <div className="frame-parent38">
         <div className="component-2-parent">
@@ -15,27 +14,29 @@ const Header = () => {
               <span className="text15">Products & Features</span>
               <img className="chevron-right-icon" alt="" src={'/chevronright.svg'} />
               <div className="dropdown-content">
-                <div className="products-parent">
-                  <div className="products">Products</div>
-                  <div className="top-ups-parent">
-                    <div className="top-ups">Top-Ups</div>
-                    <div className="activations">Activations</div>
-                    <div className="top-ups">Bill Payments</div>
-                    <div className="top-ups">TV/Internet</div>
-                    <div className="top-ups">Rent Payments</div>
-                    <div className="top-ups">Marketplace</div>
-                    <div className="top-ups">Consumer Financing</div>
-                    <div className="top-ups">Insurance</div>
+                <div className="dropdown-frame">
+                  <div className="products-parent">
+                    <div className="products">Products</div>
+                    <div className="top-ups-parent">
+                      <div className="top-ups">Top-Ups</div>
+                      <div className="activations">Activations</div>
+                      <div className="top-ups">Bill Payments</div>
+                      <div className="top-ups">TV/Internet</div>
+                      <div className="top-ups">Rent Payments</div>
+                      <div className="top-ups">Marketplace</div>
+                      <div className="top-ups">Consumer Financing</div>
+                      <div className="top-ups">Insurance</div>
+                    </div>
                   </div>
-                </div>
-                <div className="products-parent">
-                  <div className="products">Features</div>
-                  <div className="top-ups-parent">
-                    <div className="top-ups">Multi Store Management</div>
-                    <div className="top-ups">Auto Commission Settlements</div>
-                    <div className="top-ups">Simple Order Processing</div>
-                    <div className="top-ups">{`Custom Reporting & BI`}</div>
-                    <div className="top-ups">Order Inventory</div>
+                  <div className="products-parent">
+                    <div className="products">Features</div>
+                    <div className="top-ups-parent">
+                      <div className="top-ups">Multi Store Management</div>
+                      <div className="top-ups">Auto Commission Settlements</div>
+                      <div className="top-ups">Simple Order Processing</div>
+                      <div className="top-ups">{`Custom Reporting & BI`}</div>
+                      <div className="top-ups">Order Inventory</div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -50,6 +51,16 @@ const Header = () => {
             <div className="dropdown">
               <span className="text15">Resources</span>
               <img className="chevron-right-icon" alt="" src={'/chevronright.svg'} />
+              <div className="dropdown-content">
+                {/* <div className="dropdown-frame"> */}
+                <div className="about-us-frame">
+                  <div className="about-us-child">About us</div>
+                  <div className="about-us-child">Contact us</div>
+                  <div className="about-us-child">Support</div>
+                  <div className="about-us-child">Become a Reseller</div>
+                </div>
+                {/* </div> */}
+              </div>
             </div>
           </div>
         </div>

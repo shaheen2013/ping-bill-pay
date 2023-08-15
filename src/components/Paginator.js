@@ -1,5 +1,6 @@
-import ShapeSquareStateDefault from "./ShapeSquareStateDefault";
-import "./Paginator.css";
+import ShapeSquareStateDefault from './ShapeSquareStateDefault';
+import './Paginator.css';
+
 const Paginator = () => {
   return (
     <div className="pagination">

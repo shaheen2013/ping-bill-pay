@@ -1,9 +1,10 @@
-import MainHeader from "../components/MainHeader";
-import SectionCard from "../components/SectionCard";
-import ContainerCardForm from "../components/ContainerCardForm";
-import Paginator from "../components/Paginator";
-import CardSection1 from "../components/CardSection1";
-import "./AllCaseStudyV2.css";
+import MainHeader from '../components/MainHeader';
+import SectionCard from '../components/SectionCard';
+import ContainerCardForm from '../components/ContainerCardForm';
+import Paginator from '../components/Paginator';
+import CardSection1 from '../components/CardSection1';
+import './AllCaseStudyV2.css';
+
 const AllCaseStudyV2 = () => {
   return (
     <div className="all-case-study-v-2">

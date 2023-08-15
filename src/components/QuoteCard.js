@@ -1,5 +1,6 @@
-import { useMemo } from "react";
-import "./QuoteCard.css";
+import { useMemo } from 'react';
+import './QuoteCard.css';
+
 const QuoteCard = ({
   dimensionLabel,
   dimensionCode,

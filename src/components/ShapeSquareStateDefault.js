@@ -1,5 +1,6 @@
-import { useMemo } from "react";
-import "./ShapeSquareStateDefault.css";
+import { useMemo } from 'react';
+import './ShapeSquareStateDefault.css';
+
 const ShapeSquareStateDefault = ({
   number,
   shapeSquareStateDefaultWidth,
@@ -49,19 +50,10 @@ const ShapeSquareStateDefault = ({
       fontFamily: numberFontFamily,
       color: numberColor,
     };
-  }, [
-    numberFontSize,
-    numberLineHeight,
-    numberFontWeight,
-    numberFontFamily,
-    numberColor,
-  ]);
+  }, [numberFontSize, numberLineHeight, numberFontWeight, numberFontFamily, numberColor]);
 
   return (
-    <div
-      className="shapesquare-statedefault"
-      style={shapeSquareStateDefaultStyle}
-    >
+    <div className="shapesquare-statedefault" style={shapeSquareStateDefaultStyle}>
       <div className="content" style={contentStyle}>
         <div className="number" style={numberStyle}>
           {number}

@@ -1,14 +1,14 @@
-import Header from '../components/Header';
-import PrepaidEcosystemAccessSection from '../components/PrepaidEcosystemAccessSection';
-import PaymentSection from '../components/PaymentSection';
-import CustomerServiceSection from '../components/CustomerServiceSection';
 import BusinessManagementSection from '../components/BusinessManagementSection';
-import ContainerIndustries from '../components/ContainerIndustries';
-import QuoteCard from '../components/QuoteCard';
-import SectionCard1 from '../components/SectionCard1';
 import CardSection1 from '../components/CardSection1';
+import ContainerIndustries from '../components/ContainerIndustries';
+import CustomerServiceSection from '../components/CustomerServiceSection';
 import FastAndEasyEnrollmentSection from '../components/FastAndEasyEnrollmentSection';
+import Header from '../components/Header';
+import PaymentSection from '../components/PaymentSection';
+import PrepaidEcosystemAccessSection from '../components/PrepaidEcosystemAccessSection';
+import QuoteCard from '../components/QuoteCard';
 import SeamlessAutoSettlementsSection from '../components/SeamlessAutoSettlementsSection';
+import SectionCard1 from '../components/SectionCard1';
 import './LandingPageProductFeature.css';
 
 const LandingPageProductFeature = () => {

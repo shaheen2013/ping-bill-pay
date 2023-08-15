@@ -1,7 +1,8 @@
-import Header from "../components/Header";
-import CardSection from "../components/CardSection";
-import ButtonPrimary from "../components/ButtonPrimary";
-import "./ContactUsPage.css";
+import Header from '../components/Header';
+import CardSection from '../components/CardSection';
+import ButtonPrimary from '../components/ButtonPrimary';
+import './ContactUsPage.css';
+
 const ContactUsPage = () => {
   return (
     <div className="contact-us-page">
@@ -12,11 +13,7 @@ const ContactUsPage = () => {
         propColor="#2e3646"
         propColor1="#2e3646"
       />
-      <CardSection
-        dimensions="/group-40.svg"
-        propTop="89rem"
-        propOverflow="hidden"
-      />
+      <CardSection dimensions="/group-40.svg" propTop="89rem" propOverflow="hidden" />
       <div className="vector-parent">
         <img className="vector-icon2" alt="" src="/vector14.svg" />
         <div className="frame-parent33">
@@ -24,16 +21,12 @@ const ContactUsPage = () => {
             <div className="let-us-contact-you-parent">
               <div className="let-us-contact">Let Us Contact You!</div>
               <div className="fill-out-our">
-                Fill out our contact form and our team will be in touch soon to
-                discuss how we can make your idea a reality.
+                Fill out our contact form and our team will be in touch soon to discuss how we can make your idea a
+                reality.
               </div>
             </div>
             <div className="background-x5f-01-4-parent">
-              <img
-                className="background-x5f-01-4-icon"
-                alt=""
-                src="/background-x5f-01-4.svg"
-              />
+              <img className="background-x5f-01-4-icon" alt="" src="/background-x5f-01-4.svg" />
               <img className="letter-icon" alt="" src="/letter.svg" />
               <img className="phone-icon" alt="" src="/phone.svg" />
               <div className="smartphone-1-">

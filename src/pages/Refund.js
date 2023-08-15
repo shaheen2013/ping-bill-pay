@@ -1,6 +1,7 @@
-import CardSection1 from "../components/CardSection1";
-import Header from "../components/Header";
-import "./Refund.css";
+import CardSection1 from '../components/CardSection1';
+import Header from '../components/Header';
+import './Refund.css';
+
 const Refund = () => {
   return (
     <div className="refund">
@@ -15,44 +16,32 @@ const Refund = () => {
               <div className="content-item9">
                 <div className="paragraph12">
                   <p className="customer-satisfaction-is">
-                    Customer satisfaction is our utmost priority here at Ping
-                    Bill Pay. Rest assured, we will never charge your credit
-                    card until your mobile refill or top-up is successfully
-                    processed and credited to your account. Once the refill is
-                    credited, please note that it cannot be reversed, making all
-                    sales final with no option for refunds.
+                    Customer satisfaction is our utmost priority here at Ping Bill Pay. Rest assured, we will never
+                    charge your credit card until your mobile refill or top-up is successfully processed and credited to
+                    your account. Once the refill is credited, please note that it cannot be reversed, making all sales
+                    final with no option for refunds.
                   </p>
                   <p className="customer-satisfaction-is">&nbsp;</p>
                   <p className="customer-satisfaction-is">
-                    However, if, for any reason, your top-up does not get
-                    credited to your account, we guarantee a prompt refund
-                    within 24 hours of the issue coming to our attention.
+                    However, if, for any reason, your top-up does not get credited to your account, we guarantee a
+                    prompt refund within 24 hours of the issue coming to our attention.
                   </p>
                   <p className="customer-satisfaction-is">&nbsp;</p>
                   <p className="customer-satisfaction-is">
                     <span>{`For any inquiries or clarifications about our Cancellation or Refund Policy, please feel free to reach out to us at `}</span>
                     <span className="infopingbillpaycom">
-                      <span className="infopingbillpaycom1">
-                        info@pingbillpay.com
-                      </span>
+                      <span className="infopingbillpaycom1">info@pingbillpay.com</span>
                     </span>
                   </p>
                   <p className="customer-satisfaction-is">
-                    <a
-                      className="blank-line19"
-                      href="mailto:support@vivabillpay.com"
-                      target="_blank"
-                    >
+                    <a className="blank-line19" href="mailto:support@vivabillpay.com" rel="noreferrer" target="_blank">
                       <span>
                         <span className="infopingbillpaycom">&nbsp;</span>
                       </span>
                     </a>
                   </p>
                   <p className="customer-satisfaction-is">
-                    <span>
-                      We genuinely appreciate your business and thank you for
-                      choosing Ping Bill Pay!
-                    </span>
+                    <span>We genuinely appreciate your business and thank you for choosing Ping Bill Pay!</span>
                   </p>
                 </div>
               </div>

@@ -1,5 +1,6 @@
-import { useMemo } from "react";
-import "./ButtonSecondary.css";
+import { useMemo } from 'react';
+import './ButtonSecondary.css';
+
 const ButtonSecondary = ({
   buttonSecondaryPosition,
   buttonSecondaryBorder,

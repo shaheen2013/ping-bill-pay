@@ -1,8 +1,9 @@
-import PartneringWithPingBillPayConta from "./PartneringWithPingBillPayConta";
-import StreamlinedActivationProcessCo from "./StreamlinedActivationProcessCo";
-import BillPaymentServicesContainer1 from "./BillPaymentServicesContainer1";
-import ResultsContainer from "./ResultsContainer";
-import "./ImplementationContainer2.css";
+import PartneringWithPingBillPayConta from './PartneringWithPingBillPayConta';
+import StreamlinedActivationProcessCo from './StreamlinedActivationProcessCo';
+import BillPaymentServicesContainer1 from './BillPaymentServicesContainer1';
+import ResultsContainer from './ResultsContainer';
+import './ImplementationContainer2.css';
+
 const ImplementationContainer2 = () => {
   return (
     <div className="frame-parent83">
@@ -27,11 +28,9 @@ const ImplementationContainer2 = () => {
             <div className="marketing-campaigns-parent">
               <div className="marketing-campaigns">Marketing Campaigns</div>
               <div className="aaa-wireless-shop2">
-                AAA wireless shop launched targeted marketing campaigns to
-                promote its new mobile top-up and activationservices. The
-                campaigns focused on convenience, affordability, and the
-                seamless experience the store offered to attract both existing
-                andnew customers
+                AAA wireless shop launched targeted marketing campaigns to promote its new mobile top-up and
+                activationservices. The campaigns focused on convenience, affordability, and the seamless experience the
+                store offered to attract both existing andnew customers
               </div>
             </div>
             <img className="frame-child32" alt="" src="/group-67.svg" />
@@ -58,22 +57,18 @@ const ImplementationContainer2 = () => {
         <div className="conclusion-container">
           <div className="conclusion2">Conclusion</div>
           <div className="the-wireless-stores2">
-            The wireless store's decision to integrate mobile top-up payments
-            and activations for major carriers was a game-changer, leading to
-            significant revenue growth and enhanced customer satisfaction. By
-            becoming a one-stop solution provider for all mobile-related needs,
-            the store solidified its position in the market and strengthened its
-            relationship with customers.
+            The wireless store's decision to integrate mobile top-up payments and activations for major carriers was a
+            game-changer, leading to significant revenue growth and enhanced customer satisfaction. By becoming a
+            one-stop solution provider for all mobile-related needs, the store solidified its position in the market and
+            strengthened its relationship with customers.
           </div>
         </div>
         <div className="this-case-study-underscores-th-container">
           <div className="this-case-study-container1">
             <p className="this-case-study3">
-              This case study underscores the importance of embracing innovative
-              solutions and adapting to market demands to thrive in a
-              competitive landscape. The wireless store's success story serves
-              as an inspiration for other businesses seeking to diversify their
-              revenue streams and enhance customer experiences.
+              This case study underscores the importance of embracing innovative solutions and adapting to market
+              demands to thrive in a competitive landscape. The wireless store's success story serves as an inspiration
+              for other businesses seeking to diversify their revenue streams and enhance customer experiences.
             </p>
           </div>
         </div>

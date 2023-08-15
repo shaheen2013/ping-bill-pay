@@ -1,4 +1,5 @@
-import "./FastAndEasyEnrollmentSection.css";
+import './FastAndEasyEnrollmentSection.css';
+
 const FastAndEasyEnrollmentSection = ({ formDescription }) => {
   return (
     <div className="frame-parent56">
@@ -8,8 +9,8 @@ const FastAndEasyEnrollmentSection = ({ formDescription }) => {
           <p className="fast-and-easy">Enrollment Process</p>
         </div>
         <div className="we-understand-that">
-          We understand that your time is valuable, so we've designed a
-          streamlined and hassle-free experience to get you started quickly.
+          We understand that your time is valuable, so we've designed a streamlined and hassle-free experience to get
+          you started quickly.
         </div>
       </div>
       <div className="simple-online-form">Simple Online Form</div>
@@ -44,9 +45,7 @@ const FastAndEasyEnrollmentSection = ({ formDescription }) => {
             </div>
             <div className="setup-banking-info-parent">
               <div className="setup-banking-info">Setup Banking Info</div>
-              <div className="enter-your-banking">
-                Enter your banking information to get started
-              </div>
+              <div className="enter-your-banking">Enter your banking information to get started</div>
             </div>
           </div>
         </div>
@@ -66,8 +65,7 @@ const FastAndEasyEnrollmentSection = ({ formDescription }) => {
             <div className="simple-online-form-parent">
               <div className="setup-banking-info">Setup Your Store</div>
               <div className="enter-your-banking">
-                Once you've submitted your details, the next step will be to set
-                up your store with basic info
+                Once you've submitted your details, the next step will be to set up your store with basic info
               </div>
             </div>
           </div>
@@ -83,17 +81,12 @@ const FastAndEasyEnrollmentSection = ({ formDescription }) => {
           <div className="frame-parent60">
             <div className="ellipse-parent5">
               <div className="frame-child21" />
-              <img
-                className="mask-group-traced"
-                alt=""
-                src="/mask-group-traced.svg"
-              />
+              <img className="mask-group-traced" alt="" src="/mask-group-traced.svg" />
             </div>
             <div className="setup-banking-info-parent">
               <div className="setup-banking-info">Done!</div>
               <div className="enter-your-banking">
-                Enjoy using our platform to start transacting with our
-                user-friendly interface.
+                Enjoy using our platform to start transacting with our user-friendly interface.
               </div>
             </div>
           </div>

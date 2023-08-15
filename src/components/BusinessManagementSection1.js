@@ -1,21 +1,25 @@
-import CardContainer from "./CardContainer";
-import "./BusinessManagementSection1.css";
+import CardContainer from './CardContainer';
+import './BusinessManagementSection1.css';
+
 const BusinessManagementSection1 = () => {
   return (
     <div className="frame-parent87">
       <div className="frame-child34" />
       <div className="broad-range-of-features-to-ass-group">
-        <div className="broad-range-of1">
-          Broad Range of Features to Assist you in Managing your Business
-        </div>
+        <div className="broad-range-of1">Broad Range of Features to Assist you in Managing your Business</div>
         <div className="frame-parent88">
           <div className="content-group">
             <CardContainer
               iconImageUrl="/icon.svg"
               featureImageUrl="Multi Store Management"
-              retailerOnboardingText="Efficiently onboard retailer locations, ensuring a seamless integration into our.."
+              retailerOnboardingText="Efficiently onboard retailer locations, ensuring a seamless integration into our..."
             />
-            <div className="content14">
+            <CardContainer
+              iconImageUrl="/icon1.svg"
+              featureImageUrl="Payment Clearing"
+              retailerOnboardingText="Our advanced system automates payment settlements across a multi-tier distribution..."
+            />
+            {/* <div className="content13">
               <img className="icon16" alt="" src="/icon1.svg" />
               <div className="text-and-supporting-text4">
                 <div className="text48">Payment Clearing</div>
@@ -24,7 +28,7 @@ const BusinessManagementSection1 = () => {
                   <span className="learn-more3">Learn More</span>
                 </div>
               </div>
-            </div>
+            </div> */}
             <CardContainer
               iconImageUrl="/icon2.svg"
               featureImageUrl="New Order Processing"
@@ -52,17 +56,16 @@ const BusinessManagementSection1 = () => {
               propBackgroundColor="rgba(51, 167, 140, 0.1)"
             />
           </div>
-          <div className="content15">
+          {/* <div className="content15">
             <img className="icon16" alt="" src="/icon1.svg" />
             <div className="text-and-supporting-text4">
               <div className="text48">Payment Clearing</div>
               <div className="supporting-text15">
-                Our advanced system automates payment settlements across a
-                multi-tier distribution network while allowing you to customize
-                commissions based on specific products and retailers.
+                Our advanced system automates payment settlements across a multi-tier distribution network while
+                allowing you to customize commissions based on specific products and retailers.
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

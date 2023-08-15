@@ -1,5 +1,6 @@
-import { useMemo } from "react";
-import "./ButtonPrimary.css";
+import { useMemo } from 'react';
+import './ButtonPrimary.css';
+
 const ButtonPrimary = ({
   text,
   buttonPrimaryPosition,
@@ -16,12 +17,7 @@ const ButtonPrimary = ({
       padding: buttonPrimaryPadding,
       width: buttonPrimaryWidth,
     };
-  }, [
-    buttonPrimaryPosition,
-    buttonPrimaryBackgroundColor,
-    buttonPrimaryPadding,
-    buttonPrimaryWidth,
-  ]);
+  }, [buttonPrimaryPosition, buttonPrimaryBackgroundColor, buttonPrimaryPadding, buttonPrimaryWidth]);
 
   const text1Style = useMemo(() => {
     return {

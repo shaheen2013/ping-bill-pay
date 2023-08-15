@@ -1,14 +1,7 @@
-import { useMemo } from "react";
-import "./ContainerCardForm.css";
-const ContainerCardForm = ({
-  image,
-  arrowUpRight,
-  image1,
-  image2,
-  propBackgroundColor,
-  propBorder,
-  propColor,
-}) => {
+import { useMemo } from 'react';
+import './ContainerCardForm.css';
+
+const ContainerCardForm = ({ image, arrowUpRight, image1, image2, propBackgroundColor, propBorder, propColor }) => {
   const buttonPrimary1Style = useMemo(() => {
     return {
       backgroundColor: propBackgroundColor,
@@ -34,8 +27,7 @@ const ContainerCardForm = ({
                 <div />
               </div>
               <div className="supporting-text7">
-                Leveraging Mobile Top-Ups, Bill Payments, and Activations to
-                Drive Sales and Cross-Selling Opportunities
+                Leveraging Mobile Top-Ups, Bill Payments, and Activations to Drive Sales and Cross-Selling Opportunities
               </div>
             </div>
           </div>
@@ -57,19 +49,14 @@ const ContainerCardForm = ({
                 <div />
               </div>
               <div className="supporting-text7">
-                Leveraging Mobile Top-Ups, Bill Payments, and Activations to
-                Drive Sales and Cross-Selling Opportunities
+                Leveraging Mobile Top-Ups, Bill Payments, and Activations to Drive Sales and Cross-Selling Opportunities
               </div>
             </div>
           </div>
         </div>
         <div className="buttonprimary2">
           <div className="text22">Read More</div>
-          <img
-            className="arrow-up-right-icon"
-            alt=""
-            src="/arrowupright1.svg"
-          />
+          <img className="arrow-up-right-icon" alt="" src="/arrowupright1.svg" />
         </div>
       </div>
       <div className="blog-post-card">
@@ -82,19 +69,14 @@ const ContainerCardForm = ({
                 <div />
               </div>
               <div className="supporting-text7">
-                Leveraging Mobile Top-Ups, Bill Payments, and Activations to
-                Drive Sales and Cross-Selling Opportunities
+                Leveraging Mobile Top-Ups, Bill Payments, and Activations to Drive Sales and Cross-Selling Opportunities
               </div>
             </div>
           </div>
         </div>
         <div className="buttonprimary2">
           <div className="text22">Read More</div>
-          <img
-            className="arrow-up-right-icon"
-            alt=""
-            src="/arrowupright1.svg"
-          />
+          <img className="arrow-up-right-icon" alt="" src="/arrowupright1.svg" />
         </div>
       </div>
     </div>

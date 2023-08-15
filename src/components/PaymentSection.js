@@ -1,19 +1,18 @@
-import "./PaymentSection.css";
+import './PaymentSection.css';
+
 const PaymentSection = ({ imageDimensions }) => {
   return (
     <div className="vector-group">
       <img className="vector-icon7" alt="" src="/vector1.svg" />
       <div className="our-convenient-online-payment-parent">
-        <div className="our-convenient-online">
-          Our Convenient Online Payment Platform
-        </div>
+        <div className="our-convenient-online">Our Convenient Online Payment Platform</div>
         <div className="ping-utilizes-its-container">
           <span>Ping</span>
           <span className="utilizes-its-current">{` utilizes its current capabilities and network to establish an omni-channel distribution of mobile and wireless services catering to prepaid customers. Partnering with `}</span>
           <span>Ping</span>
           <span className="utilizes-its-current">
-            , who has expertise in scaling relevant businesses, presents an
-            immediate growth opportunity for your company.
+            , who has expertise in scaling relevant businesses, presents an immediate growth opportunity for your
+            company.
           </span>
         </div>
       </div>
