@@ -21,7 +21,7 @@ const CardSection1 = ({
   }, [propPosition, propFlexShrink, propBottom, propLeft, propTop]);
 
   return (
-    <div className="frame-parent37" style={frameDivStyle}>
+    <div className="frame-parent37  border-red-500 w-full" style={frameDivStyle}>
       <div className="container-parent">
         <div className="container1">
           <div className="content2">

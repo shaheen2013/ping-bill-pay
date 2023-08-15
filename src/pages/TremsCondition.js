@@ -12,11 +12,11 @@ const TremsCondition = () => {
         propColor="#2e3646"
         propColor1="#2e3646"
       />
-      <div className="frame-group">
+      <div className="frame-group w-full">
         <div className="terms-and-conditions-wrapper">
           <div className="terms-and-conditions">Terms and Conditions</div>
         </div>
-        <div className="frame-parent1">
+        <div className="frame-parent1 w-full  border-red-500">
           <div className="frame-parent2">
             <div className="content-item-parent2">
               <div className="content-item10">

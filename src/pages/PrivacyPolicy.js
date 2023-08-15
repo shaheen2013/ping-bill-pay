@@ -5,7 +5,7 @@ import './PrivacyPolicy.css';
 const PrivacyPolicy = () => {
   return (
     <div className="privacy-policy">
-      <div className="privacy-policy-parent">
+      <div className="privacy-policy-parent  border-red-500 w-full">
         <div className="privacy-policy1">Privacy Policy</div>
         <div className="frame-wrapper">
           <div className="frame-div">

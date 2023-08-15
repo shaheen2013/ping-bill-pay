@@ -5,7 +5,7 @@ import './Refund.css';
 const Refund = () => {
   return (
     <div className="refund">
-      <div className="refund-parent">
+      <div className="refund-parent w-full">
         <div className="refund1">Refund</div>
         <div className="frame-container">
           <div className="frame-wrapper1">

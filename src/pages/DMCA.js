@@ -5,7 +5,7 @@ import './DMCA.css';
 const DMCA = () => {
   return (
     <div className="dmca">
-      <div className="dmca-parent">
+      <div className="dmca-parent  border-red-500 w-full">
         <div className="dmca1">DMCA</div>
         <div className="frame-parent">
           <div className="content-item-parent">
