@@ -9,6 +9,7 @@ const ButtonPrimary = ({
   buttonPrimaryWidth,
   textFontSize,
   textLineHeight,
+  action = null,
 }) => {
   const buttonPrimaryStyle = useMemo(() => {
     return {
@@ -27,11 +28,11 @@ const ButtonPrimary = ({
   }, [textFontSize, textLineHeight]);
 
   return (
-    <div className="buttonprimary" style={buttonPrimaryStyle}>
+    <button className="buttonprimary cursor-pointer" style={buttonPrimaryStyle} onClick={action} >
       <div className="text1" style={text1Style}>
         {text}
       </div>
-    </div>
+    </button>
   );
 };
 

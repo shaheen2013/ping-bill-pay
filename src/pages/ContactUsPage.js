@@ -58,25 +58,26 @@ const ContactUsPage = () => {
             <div className="rectangle-parent">
               <div className="frame-child8" />
               <div className="frame-parent35">
-                <div className="fill-the-form-for-a-free-consu-parent">
+                <div className="fill-the-form-for-a-free-consu-parent  w-full">
                   <div className="fill-the-form-container">
                     <p className="fill-the-form">{`Fill the form for a free consultation with `}</p>
                     <p className="our-experts">our Experts!</p>
                   </div>
-                  <div className="frame-parent36">
-                    <div className="name-wrapper">
-                      <div className="email">Name</div>
-                    </div>
-                    <div className="email-wrapper">
-                      <div className="email">Email</div>
-                    </div>
-                    <div className="message-wrapper">
-                      <div className="email">Message</div>
-                    </div>
-                    <div className="phone-wrapper">
-                      <div className="email">Phone</div>
-                    </div>
+                  <div className='flex justify-between gap-5 mt-5  w-full '>
+                    <input type="text" placeholder="Name"
+                      className="text-sm focus:outline-none focus:border-[#33A78C]  w-1/2 h-12 border rounded-md px-3 mt-2" value=""
+                      name="phone" required="true" />
+                    <input type="text" placeholder="Phone"
+                      className=" w-1/2 text-sm focus:outline-none focus:border-[#33A78C]  h-12 border rounded-md px-3 mt-2" value=""
+                      name="mobile" required="true" />
                   </div>
+
+                  <input type="email" placeholder="Email"
+                    className="text-sm focus:outline-none focus:border-[#33A78C] mt-5  w-full h-12 border rounded-md px-3 " value=""
+                    name="phone" required="true" />
+
+                  <textarea placeholder="Message" className='text-sm focus:outline-none focus:border-[#33A78C] mt-5  w-full  border rounded-md px-3 py-2 ' rows="6" />
+
                 </div>
                 <ButtonPrimary
                   text="Submit"
@@ -86,6 +87,9 @@ const ContactUsPage = () => {
                   buttonPrimaryWidth="10.29rem"
                   textFontSize="1rem"
                   textLineHeight="1.5rem"
+                  action={() => {
+                    console.log('clicked');
+                  }}
                 />
               </div>
             </div>
