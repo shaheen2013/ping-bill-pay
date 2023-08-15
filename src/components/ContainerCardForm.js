@@ -32,12 +32,12 @@ const ContainerCardForm = ({ image, arrowUpRight, image1, image2, propBackground
             </div>
           </div>
         </div>
-        <div className="buttonprimary1" style={buttonPrimary1Style}>
+        <button className="buttonprimary1" style={buttonPrimary1Style}>
           <div className="text22" style={text4Style}>
             Read More
           </div>
           <img className="arrow-up-right-icon" alt="" src={arrowUpRight} />
-        </div>
+        </button>
       </div>
       <div className="blog-post-card">
         <img className="image-icon" alt="" src={image1} />
@@ -54,10 +54,10 @@ const ContainerCardForm = ({ image, arrowUpRight, image1, image2, propBackground
             </div>
           </div>
         </div>
-        <div className="buttonprimary2">
+        <button className="buttonprimary2">
           <div className="text22">Read More</div>
           <img className="arrow-up-right-icon" alt="" src="/arrowupright1.svg" />
-        </div>
+        </button>
       </div>
       <div className="blog-post-card">
         <img className="image-icon" alt="" src={image2} />
@@ -74,10 +74,10 @@ const ContainerCardForm = ({ image, arrowUpRight, image1, image2, propBackground
             </div>
           </div>
         </div>
-        <div className="buttonprimary2">
+        <button className="buttonprimary2">
           <div className="text22">Read More</div>
           <img className="arrow-up-right-icon" alt="" src="/arrowupright1.svg" />
-        </div>
+        </button>
       </div>
     </div>
   );

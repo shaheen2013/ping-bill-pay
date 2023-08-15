@@ -13,7 +13,10 @@ const SectionCard = () => {
           <div className="input">
             <div className="content4">
               <img className="search-refraction-icon" alt="" src="/searchrefraction.svg" />
-              <div className="text21">Search</div>
+
+              <input type="text" name="search" id="" placeholder="Search"
+                className="text-gray-400 h-full ml-2 focus:outline-none w-full" />
+
             </div>
           </div>
         </div>

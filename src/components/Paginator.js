@@ -4,11 +4,11 @@ import './Paginator.css';
 const Paginator = () => {
   return (
     <div className="pagination">
-      <div className="button">
+      <button className="button">
         <img className="arrow-left-icon" alt="" src="/arrowleft.svg" />
         <div className="text25">Previous</div>
         <img className="placeholder-icon" alt="" src="/placeholder.svg" />
-      </div>
+      </button>
       <div className="pagination-numbers">
         <ShapeSquareStateDefault
           number="1"
@@ -130,11 +130,11 @@ const Paginator = () => {
           numberColor="#475467"
         />
       </div>
-      <div className="button">
+      <button className="button">
         <img className="placeholder-icon" alt="" src="/placeholder.svg" />
         <div className="text25">Next</div>
         <img className="arrow-left-icon" alt="" src="/arrowright.svg" />
-      </div>
+      </button>
     </div>
   );
 };
