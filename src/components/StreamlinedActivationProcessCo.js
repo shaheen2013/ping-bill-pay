@@ -5,8 +5,8 @@ const StreamlinedActivationProcessCo = ({ setupProcessDescription, deviceActivat
     <div className="ellipse-parent8">
       <div className="frame-child22" />
       <div className="streamlined-activation-process-parent">
-        <div className="streamlined-activation-process">Streamlined Activation Process</div>
-        <div className="the-vape-store1">{setupProcessDescription}</div>
+        <div className="streamlined-activation-process text-2xl">Streamlined Activation Process</div>
+        <div className="the-vape-store1 text-lg">{setupProcessDescription}</div>
       </div>
       <img className="vector-icon26" alt="" src={deviceActivationCode} />
     </div>

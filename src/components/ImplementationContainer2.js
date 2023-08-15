@@ -9,7 +9,7 @@ const ImplementationContainer2 = () => {
     <div className="frame-parent83">
       <div className="implementation-container">
         <div className="implementation2">Implementation</div>
-        <div className="frame-parent84">
+        <div className="grid grid-cols-2 gap-10">
           <PartneringWithPingBillPayConta
             mobileTopUpDescription="To ensure a seamless integration, AAA wireless shop established strategic partnerships with major mobile carriers, allowing customers to top up their prepaid plans and activatenew prepaid connections in-store."
             mobileTopUpPlans="/partners2.svg"
@@ -26,8 +26,8 @@ const ImplementationContainer2 = () => {
           <div className="ellipse-parent16">
             <div className="frame-child31" />
             <div className="marketing-campaigns-parent">
-              <div className="marketing-campaigns">Marketing Campaigns</div>
-              <div className="aaa-wireless-shop2">
+              <div className="marketing-campaigns text-2xl">Marketing Campaigns</div>
+              <div className="aaa-wireless-shop2 text-lg">
                 AAA wireless shop launched targeted marketing campaigns to promote its new mobile top-up and
                 activationservices. The campaigns focused on convenience, affordability, and the seamless experience the
                 store offered to attract both existing andnew customers
