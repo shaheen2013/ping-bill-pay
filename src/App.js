@@ -100,9 +100,9 @@ function App() {
       <Route path="/dmca" element={<DMCA />} />
       <Route path="/privacy-policy" element={<PrivacyPolicy />} />
       <Route path="/refund" element={<Refund />} />
-      <Route path="/trems-condition" element={<TremsCondition />} />
+      <Route path="/terms-condition" element={<TremsCondition />} />
       <Route path="/all-case-study-v2" element={<AllCaseStudyV2 />} />
-      <Route path="/landing-page-product-features-menu-popup" element={<LandingPageProductFeature />} />
+      {/* <Route path="/landing-page-product-features-menu-popup" element={<LandingPageProductFeature />} /> */}
       <Route path="/case-study-version-2-the-vape-store" element={<CaseStudyVersion2TheVape />} />
       <Route path="/case-study-version-2-swift-gas-stations" element={<CaseStudyVersion2SwiftGa />} />
       <Route path="/case-study-version-2-aaa-wireless-store" element={<CaseStudyVersion2AAAWire />} />

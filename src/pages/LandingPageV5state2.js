@@ -10,6 +10,7 @@ import CardSection from '../components/CardSection';
 import FastAndEasyEnrollmentSection from '../components/FastAndEasyEnrollmentSection';
 import SeamlessAutoSettlementsSection from '../components/SeamlessAutoSettlementsSection';
 import './LandingPageV5state2.css';
+import CardSection1 from '../components/CardSection1';
 
 const LandingPageV5state2 = () => {
   return (
@@ -73,7 +74,7 @@ const LandingPageV5state2 = () => {
                   </div>
                 </div>
                 <div className="wrapper1">
-                  <img className="icon3" alt="" src="/.svg" />
+                  <img className="icon3" alt="" src="/comma.svg" />
                 </div>
               </div>
             </div>
@@ -99,7 +100,7 @@ const LandingPageV5state2 = () => {
                   </div>
                 </div>
                 <div className="wrapper2">
-                  <img className="icon3" alt="" src="/.svg" />
+                  <img className="icon3" alt="" src="/comma.svg" />
                 </div>
               </div>
             </div>
@@ -125,7 +126,7 @@ const LandingPageV5state2 = () => {
                   </div>
                 </div>
                 <div className="wrapper1">
-                  <img className="icon3" alt="" src="/.svg" />
+                  <img className="icon3" alt="" src="/comma.svg" />
                 </div>
               </div>
             </div>
@@ -134,6 +135,7 @@ const LandingPageV5state2 = () => {
       </div>
       <SectionCard1 />
       <CardSection dimensions="/group-402.svg" propTop="421.94rem" propOverflow="hidden" />
+
       {/* <div className="about-us-parent">
         <div className="about-us">About us</div>
         <div className="about-us">Contact us</div>

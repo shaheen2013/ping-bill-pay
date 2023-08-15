@@ -12,7 +12,9 @@
   font-weight: 600;
   color: #2e3646;
 }
-.text15:hover {
+
+.text15:hover,
+.text15.open {
   position: relative;
   line-height: 1.5rem;
   font-weight: 600;
@@ -135,9 +137,13 @@
 }
 
 .about-us-child {
-  /* position: relative; */
   line-height: 1.5rem;
 }
+
+.about-us-child a {
+  text-decoration: none;
+}
+
 .about-us-frame {
   top: 5rem;
   left: 73.63rem;

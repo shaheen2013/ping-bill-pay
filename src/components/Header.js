@@ -1,9 +1,13 @@
-import { useMemo } from 'react';
+import { useLocation } from 'react-router';
 import ButtonPrimary from './ButtonPrimary';
 import ButtonSecondary from './ButtonSecondary';
 import './Header.css';
 
 const Header = () => {
+  const location = useLocation();
+
+  const isCaseStudiesActive = location.pathname === '/all-case-study-v2';
+
   return (
     <div className="header">
       <img className="background3-2-icon" alt="" src="/background3-2@2x.png" />
@@ -44,7 +48,9 @@ const Header = () => {
           </div>
 
           <div className="text-wrapper">
-            <div className="text15">Case Studies</div>
+            <a href="/all-case-study-v2" className={`text15 ${isCaseStudiesActive ? 'open' : ''}`}>
+              Case Studies
+            </a>
           </div>
 
           <div className="text-wrapper">
@@ -52,14 +58,16 @@ const Header = () => {
               <span className="text15">Resources</span>
               <img className="chevron-right-icon" alt="" src={'/chevronright.svg'} />
               <div className="dropdown-content">
-                {/* <div className="dropdown-frame"> */}
                 <div className="about-us-frame">
-                  <div className="about-us-child">About us</div>
-                  <div className="about-us-child">Contact us</div>
+                  <a href="/about-us-page" className="about-us-child hover:text-blue-700">
+                    About us
+                  </a>
+                  <a href="/contact-us-page" className="about-us-child hover:text-blue-700">
+                    Contact us
+                  </a>
                   <div className="about-us-child">Support</div>
                   <div className="about-us-child">Become a Reseller</div>
                 </div>
-                {/* </div> */}
               </div>
             </div>
           </div>
