@@ -1,11 +1,16 @@
+import { useNavigate } from 'react-router-dom';
 import ButtonPrimary from '../components/ButtonPrimary';
 import Header from '../components/Header';
 import CardSection from '../components/CardSection';
 import './AboutUsPage.css';
 
+
 const AboutUsPage = () => {
+
+  const navigate = useNavigate();
+
   return (
-    <div className="about-us-page">
+    <div className="about-us-page ">
       <div className="group-parent">
         <img className="group-icon" alt="" src="/group-43.svg" />
         <div className="about-ping-bill">About Ping bill pay</div>
@@ -151,6 +156,9 @@ const AboutUsPage = () => {
                 buttonPrimaryWidth="unset"
                 textFontSize="1rem"
                 textLineHeight="1.5rem"
+                action={() => {
+                  navigate('/contact-us-page');
+                }}
               />
             </div>
           </div>

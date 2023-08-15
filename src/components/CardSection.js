@@ -47,11 +47,7 @@ const CardSection = ({ dimensions, propTop, propOverflow }) => {
         <div className="container4">
           <div className="content12">
             <div className="footer-text1">Copyright 2023 © Pingbillpay.</div>
-            <div className="social-icons1">
-              <img className="social-icon3" alt="" src="/social-icon.svg" />
-              <img className="social-icon3" alt="" src="/social-icon.svg" />
-              <img className="social-icon3" alt="" src="/social-icon.svg" />
-            </div>
+
           </div>
         </div>
       </div>

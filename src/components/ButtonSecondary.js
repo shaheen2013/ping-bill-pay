@@ -26,11 +26,11 @@ const ButtonSecondary = ({
   }, [textFontSize, textLineHeight, textColor]);
 
   return (
-    <div className="buttonsecondary" style={buttonSecondaryStyle}>
+    <button className="buttonsecondary" style={buttonSecondaryStyle}>
       <div className="text" style={textStyle}>
         Login
       </div>
-    </div>
+    </button>
   );
 };
 
