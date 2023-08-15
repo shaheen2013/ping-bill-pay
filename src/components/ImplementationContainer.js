@@ -7,12 +7,12 @@ const ImplementationContainer = () => {
     <div className="frame-parent61">
       <div className="implementation-parent">
         <div className="implementation">Implementation</div>
-        <div className="frame-parent62">
+        <div className="grid grid-cols-2 gap-10">
           <div className="ellipse-parent9">
             <div className="frame-child23" />
             <div className="partnering-with-ping-bill-pay-parent">
-              <div className="partnering-with-ping">Partnering with Ping Bill Pay</div>
-              <div className="the-vape-store2">
+              <div className="partnering-with-ping text-2xl">Partnering with Ping Bill Pay</div>
+              <div className="the-vape-store2 text-lg">
                 The Vape Store established a partnership with Ping Bill Pay, offering customers the convenience of
                 mobile top-ups for prepaid plans, postpaid bill payments, and new mobile activations. The diverse range
                 of services attracted tech-savvy customers looking for a one-stop destination.
@@ -22,14 +22,14 @@ const ImplementationContainer = () => {
           </div>
           <StreamlinedActivationProcessCo
             setupProcessDescription="The Vape Store invested in training its staff to handle smartphone and smart device activations efficiently. Expertise in guiding customers through the setup process 
-ensured smooth experiences and instilled trust among customers in the store's technical expertise."
+            ensured smooth experiences and instilled trust among customers in the store's technical expertise."
             deviceActivationCode="/vector9.svg"
           />
           <div className="ellipse-parent10">
             <div className="frame-child23" />
             <div className="integrated-bill-payment-servic-parent">
-              <div className="partnering-with-ping">Integrated Bill Payment Services</div>
-              <div className="the-store-integrated">
+              <div className="partnering-with-ping text-2xl">Integrated Bill Payment Services</div>
+              <div className="the-store-integrated text-xl">
                 The store integrated bill payment services into its checkout process, allowing customers to pay their
                 utility bills, phone bills, internet bills, and other expenses while purchasing vape products. This
                 integration created seamless experiences, encouraging customers to utilize the store for multiple
@@ -41,9 +41,9 @@ ensured smooth experiences and instilled trust among customers in the store's te
           <div className="ellipse-parent11">
             <div className="frame-child23" />
             <div className="cross-selling-opportunities-parent">
-              <div className="partnering-with-ping">Cross-Selling Opportunities</div>
+              <div className="partnering-with-ping text-2xl">Cross-Selling Opportunities</div>
               <div className="by-diversifying-its-container">
-                <p className="by-diversifying-its">
+                <p className="by-diversifying-its text-lg">
                   By diversifying its offerings, The Vape Store effectively cross-sold mobile top-ups, bill payments,
                   and activations to existing vape customers. Conversely, customers
                 </p>
