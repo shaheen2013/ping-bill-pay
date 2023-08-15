@@ -1,5 +1,6 @@
 import { useMemo } from 'react';
 import './CardSection.css';
+import { Link } from 'react-router-dom';
 
 const CardSection = ({ dimensions, propTop, propOverflow }) => {
   const frameDiv3Style = useMemo(() => {
@@ -24,18 +25,18 @@ const CardSection = ({ dimensions, propTop, propOverflow }) => {
             <div className="item-21">
               <div className="policy1">Policy</div>
               <div className="text-parent11">
-                <a href="/privacy-policy" className="text40">
-                  Privacy Policy
-                </a>
-                <a href="/refund" className="text40">
-                  Refunds
-                </a>
-                <a href="/terms-condition" className="text40">
-                  Terms/Conditions
-                </a>
-                <a href="/dmca" className="text40">
-                  DMCA
-                </a>
+                <Link to="/privacy-policy">
+                  <div className="text40">Privacy Policy</div>
+                </Link>
+                <Link to="/refund">
+                  <div className="text40">Refunds</div>
+                </Link>
+                <Link to="/terms-condition">
+                  <div className="text40">Terms/Conditions</div>
+                </Link>
+                <Link to="/dmca">
+                  <div className="text40">DMCA</div>
+                </Link>
               </div>
             </div>
             <div className="item-21">
@@ -63,7 +64,7 @@ const CardSection = ({ dimensions, propTop, propOverflow }) => {
           <img className="vector-icon30" alt="" src="/vector.svg" />
         </div>
         <img className="group-icon9" alt="" src="/group.svg" />
-        <img className="group-icon9" alt="" src={dimensions} />
+        <img className="group-icon9" alt="" src="/group-401.svg" />
         <img className="group-icon9" alt="" src="/linkedin1.svg" />
       </div>
     </div>

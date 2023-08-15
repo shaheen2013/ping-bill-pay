@@ -36,16 +36,16 @@ const CardSection1 = ({
             <div className="item-2">
               <div className="policy">Policy</div>
               <div className="text-parent4">
-                <Link to="/privacy-policy" >
+                <Link to="/privacy-policy">
                   <div className="text8">Privacy Policy</div>
                 </Link>
-                <Link to="/refund" >
+                <Link to="/refund">
                   <div className="text8">Refunds</div>
                 </Link>
-                <Link to="/terms-condition" >
+                <Link to="/terms-condition">
                   <div className="text8">Terms/Conditions</div>
                 </Link>
-                <Link to="/dmca" >
+                <Link to="/dmca">
                   <div className="text8">DMCA</div>
                 </Link>
               </div>
@@ -76,12 +76,12 @@ const CardSection1 = ({
         </div>
       </div>
       <div className="actions-parent ">
-        <div className="actions">
-          <img className="vector-icon6" alt="" src="/vector.svg" />
+        <div className="actions2">
+          <img className="vector-icon30" alt="" src="/vector.svg" />
         </div>
-        <img className="linkedin-icon" alt="" src="/group.svg" />
-        <img className="linkedin-icon" alt="" src={dimensionCode} />
-        <img className="linkedin-icon" alt="" src={dimensionCodeText} />
+        <img className="group-icon9" alt="" src="/group.svg" />
+        <img className="group-icon9" alt="" src="/group-401.svg" />
+        <img className="group-icon9" alt="" src="/linkedin1.svg" />
       </div>
     </div>
   );

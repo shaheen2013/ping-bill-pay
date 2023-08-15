@@ -41,7 +41,7 @@ const AllCaseStudyV2 = () => {
         </div>
         <Paginator />
       </div>
-      {/* <CardSection1
+      <CardSection1
         dimensionCode="/group-403.svg"
         dimensionCodeText="/linkedin1.svg"
         propPosition="absolute"
@@ -49,8 +49,7 @@ const AllCaseStudyV2 = () => {
         propBottom="-0.37rem"
         propLeft="calc(50% - 960px)"
         propTop="unset"
-      /> */}
-      <CardSection />
+      />
     </div>
   );
 };
