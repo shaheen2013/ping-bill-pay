@@ -16,9 +16,12 @@ const AllCaseStudyV2 = () => {
         <div className="frame-parent4">
           <ContainerCardForm
             image="/image@2x.png"
-            arrowUpRight="/arrowupright.svg"
+            arrowUpRight="/arrowupright1.svg"
             image1="/image1@2x.png"
             image2="/image2@2x.png"
+            propBackgroundColor="#f9fbfd"
+            propBorder="1px solid #e0e0e0"
+            propColor="#2e3646"
           />
           <ContainerCardForm
             image="/image3@2x.png"

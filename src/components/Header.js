@@ -1,4 +1,5 @@
 import { useLocation } from 'react-router';
+import { Link } from 'react-router-dom';
 import ButtonPrimary from './ButtonPrimary';
 import ButtonSecondary from './ButtonSecondary';
 import './Header.css';
@@ -10,7 +11,9 @@ const Header = () => {
 
   return (
     <div className="header  border-red-500">
-      <img className="background3-2-icon" alt="" src="/background3-2@2x.png" />
+      <Link to="/">
+        <img className="background3-2-icon" alt="" src="/background3-2@2x.png" />
+      </Link>
       <div className="frame-parent38">
         <div className="component-2-parent">
           <div className="text-wrapper">

@@ -1,20 +1,8 @@
 import { useMemo } from 'react';
 import './ContainerCardForm.css';
+import { Link } from 'react-router-dom';
 
-const ContainerCardForm = ({ image, arrowUpRight, image1, image2, propBackgroundColor, propBorder, propColor }) => {
-  const buttonPrimary1Style = useMemo(() => {
-    return {
-      backgroundColor: propBackgroundColor,
-      border: propBorder,
-    };
-  }, [propBackgroundColor, propBorder]);
-
-  const text4Style = useMemo(() => {
-    return {
-      color: propColor,
-    };
-  }, [propColor]);
-
+const ContainerCardForm = ({ image, arrowUpRight, image1, image2 }) => {
   return (
     <div className="blog-post-card-parent">
       <div className="blog-post-card">
@@ -32,12 +20,10 @@ const ContainerCardForm = ({ image, arrowUpRight, image1, image2, propBackground
             </div>
           </div>
         </div>
-        <button className="buttonprimary1" style={buttonPrimary1Style}>
-          <div className="text22" style={text4Style}>
-            Read More
-          </div>
-          <img className="arrow-up-right-icon" alt="" src={arrowUpRight} />
-        </button>
+        <Link className="buttonprimary" to={'/case-study-version-2-the-vape-store'}>
+          <div className="text22">Read More</div>
+          <img className="arrow-up-right-icon" alt="" src="/arrowupright1.svg" />
+        </Link>
       </div>
       <div className="blog-post-card">
         <img className="image-icon" alt="" src={image1} />
@@ -54,10 +40,10 @@ const ContainerCardForm = ({ image, arrowUpRight, image1, image2, propBackground
             </div>
           </div>
         </div>
-        <button className="buttonprimary2">
+        <Link to={'/case-study-version-2-swift-gas-stations'} className="buttonprimary">
           <div className="text22">Read More</div>
           <img className="arrow-up-right-icon" alt="" src="/arrowupright1.svg" />
-        </button>
+        </Link>
       </div>
       <div className="blog-post-card">
         <img className="image-icon" alt="" src={image2} />
@@ -74,10 +60,10 @@ const ContainerCardForm = ({ image, arrowUpRight, image1, image2, propBackground
             </div>
           </div>
         </div>
-        <button className="buttonprimary2">
+        <Link to={'/case-study-version-2-aaa-wireless-store'} className="buttonprimary">
           <div className="text22">Read More</div>
           <img className="arrow-up-right-icon" alt="" src="/arrowupright1.svg" />
-        </button>
+        </Link>
       </div>
     </div>
   );
