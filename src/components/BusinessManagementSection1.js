@@ -13,27 +13,23 @@ const BusinessManagementSection1 = () => {
               iconImageUrl="/icon.svg"
               featureImageUrl="Multi Store Management"
               retailerOnboardingText="Efficiently onboard retailer locations, ensuring a seamless integration into our..."
+              fullText="Our advanced system automates payment settlements across a multi-tier distribution network while
+                allowing you to customize commissions based on specific products and retailers."
             />
             <CardContainer
               iconImageUrl="/icon1.svg"
               featureImageUrl="Payment Clearing"
               retailerOnboardingText="Our advanced system automates payment settlements across a multi-tier distribution..."
+              fullText="Our advanced system automates payment settlements across a multi-tier distribution network while
+                allowing you to customize commissions based on specific products and retailers."
             />
-            {/* <div className="content13">
-              <img className="icon16" alt="" src="/icon1.svg" />
-              <div className="text-and-supporting-text4">
-                <div className="text48">Payment Clearing</div>
-                <div className="supporting-text15">
-                  <span>{`Our advanced system automates payment settlements across a multi-tier... `}</span>
-                  <span className="learn-more3">Learn More</span>
-                </div>
-              </div>
-            </div> */}
             <CardContainer
               iconImageUrl="/icon2.svg"
               featureImageUrl="New Order Processing"
               retailerOnboardingText="Efficiently handle activation intake and fulfillment management..."
-              propBackgroundColor="rgba(51, 167, 140, 0.1)"
+              // propBackgroundColor="rgba(51, 167, 140, 0.1)"
+              fullText="Our advanced system automates payment settlements across a multi-tier distribution network while
+                allowing you to customize commissions based on specific products and retailers."
             />
           </div>
           <div className="content-container">
@@ -41,19 +37,25 @@ const BusinessManagementSection1 = () => {
               iconImageUrl="/icon3.svg"
               featureImageUrl="Custom Reports and BI"
               retailerOnboardingText="Easily track and manage performance throughout your distribution..."
-              propBackgroundColor="rgba(51, 167, 140, 0.1)"
+              // propBackgroundColor="rgba(51, 167, 140, 0.1)"
+              fullText="Our advanced system automates payment settlements across a multi-tier distribution network while
+                allowing you to customize commissions based on specific products and retailers."
             />
             <CardContainer
               iconImageUrl="/icon4.svg"
               featureImageUrl={`Training & Support`}
               retailerOnboardingText="Our platform offers a seamless onboarding experience with streamlined... "
-              propBackgroundColor="rgba(51, 167, 140, 0.1)"
+              // propBackgroundColor="rgba(51, 167, 140, 0.1)"
+              fullText="Our advanced system automates payment settlements across a multi-tier distribution network while
+                allowing you to customize commissions based on specific products and retailers."
             />
             <CardContainer
               iconImageUrl="/icon5.svg"
               featureImageUrl=" Other Benefits"
               retailerOnboardingText="Unlock the full potential of your business with our services, including custom.."
-              propBackgroundColor="rgba(51, 167, 140, 0.1)"
+              // propBackgroundColor="rgba(51, 167, 140, 0.1)"
+              fullText="Our advanced system automates payment settlements across a multi-tier distribution network while
+                allowing you to customize commissions based on specific products and retailers."
             />
           </div>
           {/* <div className="content15">

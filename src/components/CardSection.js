@@ -24,10 +24,18 @@ const CardSection = ({ dimensions, propTop, propOverflow }) => {
             <div className="item-21">
               <div className="policy1">Policy</div>
               <div className="text-parent11">
-                <div className="text40">Privacy Policy</div>
-                <div className="text40">Refunds</div>
-                <div className="text40">Terms/Conditions</div>
-                <div className="text40">DMCA</div>
+                <a href="/privacy-policy" className="text40">
+                  Privacy Policy
+                </a>
+                <a href="/refund" className="text40">
+                  Refunds
+                </a>
+                <a href="/terms-condition" className="text40">
+                  Terms/Conditions
+                </a>
+                <a href="/dmca" className="text40">
+                  DMCA
+                </a>
               </div>
             </div>
             <div className="item-21">
@@ -47,7 +55,6 @@ const CardSection = ({ dimensions, propTop, propOverflow }) => {
         <div className="container4">
           <div className="content12">
             <div className="footer-text1">Copyright 2023 © Pingbillpay.</div>
-
           </div>
         </div>
       </div>

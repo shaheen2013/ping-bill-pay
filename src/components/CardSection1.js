@@ -1,5 +1,6 @@
 import { useMemo } from 'react';
 import './CardSection1.css';
+import { Link } from 'react-router-dom';
 
 const CardSection1 = ({
   dimensionCode,
@@ -35,10 +36,18 @@ const CardSection1 = ({
             <div className="item-2">
               <div className="policy">Policy</div>
               <div className="text-parent4">
-                <div className="text8">Privacy Policy</div>
-                <div className="text8">Refunds</div>
-                <div className="text8">Terms/Conditions</div>
-                <div className="text8">DMCA</div>
+                <Link to="/privacy-policy" >
+                  <div className="text8">Privacy Policy</div>
+                </Link>
+                <Link to="/refund" >
+                  <div className="text8">Refunds</div>
+                </Link>
+                <Link to="/terms-condition" >
+                  <div className="text8">Terms/Conditions</div>
+                </Link>
+                <Link to="/dmca" >
+                  <div className="text8">DMCA</div>
+                </Link>
               </div>
             </div>
             <div className="item-2">
@@ -49,7 +58,7 @@ const CardSection1 = ({
                 <div className="text14">FAQ</div>
               </div>
             </div>
-            <div className="app-store-actions">
+            <div className="app-store-actions mr-7">
               <div className="heading34">Social Media</div>
               <div />
             </div>
@@ -66,7 +75,7 @@ const CardSection1 = ({
           </div>
         </div>
       </div>
-      <div className="actions-parent">
+      <div className="actions-parent ">
         <div className="actions">
           <img className="vector-icon6" alt="" src="/vector.svg" />
         </div>

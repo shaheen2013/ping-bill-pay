@@ -40,3 +40,13 @@
   color: #2e3646;
   font-family: Sora;
 }
+.content13.hovered {
+  transform: scale(1.1);
+  transition-duration: 1s;
+  z-index: 1;
+  white-space: normal;
+  overflow: visible;
+  text-overflow: initial;
+  max-height: none;
+  background-color: white;
+}

@@ -1,6 +1,7 @@
 import Header from '../components/Header';
 import CardSection1 from '../components/CardSection1';
 import './TremsCondition.css';
+import CardSection from '../components/CardSection';
 
 const TremsCondition = () => {
   return (
@@ -540,6 +541,7 @@ const TremsCondition = () => {
               </div>
             </div>
           </div>
+
           <CardSection1
             dimensionCode="/group-402.svg"
             dimensionCodeText="/linkedin.svg"
@@ -549,6 +551,7 @@ const TremsCondition = () => {
             propLeft="unset"
             propTop="unset"
           />
+
         </div>
       </div>
       <img className="trems-condition-child" alt="" src="/group-48.svg" />
